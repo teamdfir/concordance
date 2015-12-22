@@ -21,6 +21,7 @@ base64 encoding
 basic authentication
 basic service set
 basic smtp transaction
+bettercap
 binary protocol analysis
 block cipher
 botnet
