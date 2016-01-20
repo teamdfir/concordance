@@ -1,0 +1,1217 @@
+﻿FOR408 Word list 
+
+
+408.1
+Image
+FTK Imager
+Rules of Evidence
+Admissibility
+Preservation of Evidence
+Chain of Custody
+Evidence Handling
+Evidence Integrity
+Hash
+BIOS
+CMOS
+Message Digest
+Secure Hash Algorithm
+No Requirement to Detail Search Methodology
+Within the Scope of Search Authorization
+brief perusal
+Best Method
+What is the Best Tool
+Analysis of Search Results
+Understanding OS & Applications
+Understanding Evidence Created
+Requires Analysis
+Problem Solving
+Proper Analysis
+Evidence of categories
+User Communication
+FIle Download
+Program Execution
+File Opening/ Creation
+File Knowledge Physical Location
+USB Key Usage
+Account Usage
+Browser Usage
+Prefetch
+Memory Acquisition
+Volatile Data
+SODDI
+Some Other Dude Did It
+Encryption Keys
+Bit Locker
+hiberfil.sys
+pagefile.sys
+memory.dmp
+WinPMEM
+Memoryze
+Auditviewer
+Volatility
+HBGary’s Responder
+Truecrypt
+Passware
+Encryption
+EDD
+Encryption Disk Detector
+Types of Triaged Data
+Registry
+Web History
+OS Artifacts
+User Files
+Distributed
+What Content to Image
+SAM
+SYSTEM
+SOFTWARE
+DEFAULT
+NTUSER.DAT
+USRCLASS.DAT
+Event Logs
+Firewall Logs
+IIS logs
+setupapi.dev.log
+LogFiles
+*.evtx
+*.lnk
+*.pf
+APPDATA
+Custom Content Images
+Hex Value Intepreter
+Custom Content Sources
+SID
+Export Logical Image
+Add to Custom Content Image
+Filter by File Ownership
+Image RAM
+Check for Disk Encryption
+Create Quick Triage Image
+Begin Analysis of Triage Image
+Advanced Acquisition
+Solid State Drives
+SSD
+SSD Trim
+Wear Leveling
+Drive Trimming
+Will disk defragmentation be disabled by default on SSDs?
+Will Superfetch be disabled on SSDs?
+Does the Windows Search Indexer operate differently on SSDs?
+To Pull or Not to Pull
+sudden power loss
+Write Blocking SSDs
+Image Mounting
+Benefits to Image Mounting
+Characteristics of Mounted Images
+Logically Mounted Images
+Physically Mounted Images
+Block Device/Read
+Block Device/Writable
+File System/Read Only
+Mapped Images
+Mapped Image List
+Unmount
+Aresenal Imager Mounter
+Fat 12/16
+Fat 32
+ExFat
+NTFS
+ReFS
+FILENAME LAYER
+METADATA LAYER
+DATA LAYER
+File System 5-Layers
+Allocated
+Unallocated
+Chains
+MACtimes
+File System Metadata
+Deleted File
+Wiped File
+Guidelines for Media Sanitization
+NTFS Features
+POSIX
+Notable NTFS Artifacts
+MAC Meaning by File System
+Modified
+Accessed
+Change in Metadata
+Birthdate
+Windows Time Rules
+Zone.Identifier
+Volume Shadow Copy
+VSS
+System Restore
+vssadmin
+Live Shadow Volume Examination
+mklink
+Windows Forensic Analysis Overview
+Stream Carving
+File Carving
+Magnet Forensic’s Internet Evidence Finder
+IEF
+Data Stream Carving Examples
+Notable IEF Carved Artifacts
+Parsing Metadata in Files
+Examining MS Office Metadata
+Exiftool Smartphone Picture Analysis
+How File Carving Works: Recovering Deleted Files
+PhotoRec
+How Does PhotoRec Work?
+Adding Signatures to PhotoRec
+photorec.sig
+fidentify.exe
+PhotoRec Carving and Sorting
+PhotoRec Sorter
+HKLM
+HKCU
+NTUSER.dat
+UserClass.dat
+UAC
+Registry Hives
+SAM
+SECURITY
+SYSTEM
+SOFTWARE
+NTUSER.DAT
+Strings
+Binary Data
+Integers
+Lists
+Last Write Time
+MRULists
+Examining Key Values via Registry Editor
+Offline Registry Viewing: Forensicating the Registry
+Open Registry Hive
+Deleted Keys/Values
+Keys
+Values
+Timestamps
+YARU
+Yet Another Registry Utility
+Registry Analsis Tool Options
+Access Data Registry Viewer
+Registry Ripper
+RegRipper
+Tzwork's
+cafae
+SAM: Profiling User/Groups
+Security Identifier (SID)
+User Login Information
+Last Login
+Last Failed Login
+Logon Count
+Password Policy
+Account Creation Time
+Group Information
+Administrators
+Users
+REmote Desktop Users
+Profiling Local Users
+SAM Parsing Using AD RegViewer
+SAM Parsing Using Regripper
+Does the Account have a Blank Password
+SAMInside
+Examining System Configuration
+System Configuration Overview
+Identify the Microsoft OS Version
+Identify the Current Control Set
+ControlSets
+ControlSet
+CurrentControlSet
+LastKnownGood
+Computer Name
+Time Zone Information
+ActiveTimeBias
+StandardBias
+DaylightBias
+Last Access Time ON/Off
+NtfsDisableLastAccessUpdate
+Network Interfaces
+Win7/Win8 Historical Networks
+GUID
+Network Location Awareness
+NLA
+NetworkList
+HomeGroup
+Cache Key
+Write-Down ProfileGuid
+Network Types
+SSID
+LastDateConnected
+DCodeDate
+ProfileGuid
+Nametype
+Wireless
+Wired
+Broadband
+Public
+Private/Home
+Domain/Work
+DCode Date Tool
+DateFirstConnected
+Geo-Location of MAC Address/SSID
+wigle.net
+Shares and Offline Caching
+Shares
+Client Side Caching (CSC)
+CSCFlags
+Windows Offline Files Cache
+C:\Windows\CSC
+MaxUses
+Path
+Permissions
+Type
+System Boot Autostart Programs
+RunOnce
+Services
+Shutdown Information
+Shutdown Time
+Shutdown Count
+Registry User Activity: Evidence Of
+User Comms
+File Download
+Program Execution
+File Opening/ Creation
+File Knowledge
+Physical Location
+USB Key Usage
+Account Usage
+Browser Usage
+Win7/8 Search History
+Search History
+ACMru
+Win8 Search History
+WordWheelQuery
+Typed Paths
+TypedPaths
+Recent Docs
+RecentDocs
+MRUlist
+Recently Opened Timeline Example
+Microsoft Office RecentDocs
+RecentDocs
+FileMRU
+Office 365/2013 FileMRU Keys
+Office 365/2013 Last Reading Location
+File Path Value
+Datetime
+Position
+Explorer Common Dialog
+LastVisitedMRU
+OpenSavedMRU
+YARU
+ComDlg32
+OpenSaveMRU
+Last Saved Files
+LastVisitedMRU
+LastVisitedPidMRU
+Last Commands Executed
+Last Command Executed
+RunMRU
+UserAssist Key
+USERASSIST
+UserAssist Key Tracks:
+Last Run Time
+Run Count
+Name of GUI Application
+Focus Time
+Focus Count
+Nirsoft
+GUIDs for XP
+Internet Toolbar
+Active Desktop
+GUIDs for Win7/8
+Executable File Execution
+Shortcut File Execution
+UMEME_
+RunPath
+RUNCPL
+RUNPIDL
+UIQCUT
+UISUT
+UITOOLBAR
+Win7/8 UserAssist Name Values
+ProgramFilesX64
+ProgramFilesx86
+System
+SystemX86
+Desktop
+Documents
+Downloads
+UserProfiles
+ROT13
+Vibranium
+GUIDs for UserAssist
+Evidence of Execution Timeline Example
+Wigle
+0x47
+ntuser.dat
+shutdown count
+0x02
+caching
+128 bit system structure
+0x06
+0x17
+Shell Item Analysis
+Shell Item Artifact Attributes
+Shell Item
+known folder
+Type of Drive target is on
+Path of Target File
+Target Metadata
+Shell Item: General Layout
+LNK
+PIDL
+LikInfo
+CNRL
+CommonNetworkRelativeLink
+StringData
+ExtraData
+PropertyStore
+TrackerInformation
+LNK: ShellLinkHeader
+ShellLinkHeader
+CLSID
+FILETIME
+Shortcut Files (.lnk)
+Max number of file in the “RECENT”
+.LNK Time of First/Last Open
+LNK File Analysis
+Windows LNK Parsing Utility
+lp.exe
+-rawscan
+-deepscan
+-pipe
+LNK Target File Analysis Using lp.exe
+Windows 8.1 Recent Folder - LNK files with URLs
+Windows 8.1 Charm Bar
+Metro Interface
+magnifying glass
+DCpde Date
+suggested search
+Windows 8/8.1 Search History
+Charm History
+SearchHistory\Microsoft.Windows.FileSearchApp
+ConnectedSearch\History
+Windows 8.1 Search Types
+txt_
+set_
+site_
+UserAssist and Charm Bar
+USERASSIST Registry Key GUIDS
+BCB48336
+Win7/Win8 Jump Lists
+Jump Lists
+jump
+mini-start
+What is a Jump List?
+Destination
+Tasks
+Automatic
+Custom
+registered handler
+AppIDs
+adecfb853d77462a
+Unique AppID
+Automatic Destinations
+AutomaticDestinations
+automaticDestinations-ms
+AppID
+AddID
+MiTeC’s Structured Storage Viewer
+Custom Destinations
+CustomDestinations
+custom jump list
+customDestinations-ms
+Mapping Between Directions
+Automatic Destinations in Structured Storage Viewer
+Export Stream and Save LNK
+Save Stream
+break
+Jump List Analysis File Analysis
+jmp.exe
+Jumplist Parsing Utility
+Automatic Destinations:
+MRU/FRU
+MRU
+FRU
+Custom Destinations: jmp.exe CSV Output
+Tracking Folder/Directory Usage Win7/8 shellbags
+Explorer Access -
+Bags
+BagMRU
+Desktop Access -
+BagMRU
+Bags
+GUID folder
+Shellbag sub-key
+Shellbag keys
+ShellBags Based on Windows Explorer
+Parsing Win7/Win8 Shellbags
+ShellBags Analysis Key Items
+MRUListEx
+inode number
+sbag
+ShellBag GUIDs
+Parsing ShellBags via ShellBags Explorer
+ShellBags Explorer
+SBE
+ShellBags Explorer Command Line
+Shellbags Explorer CMD Output
+Absolute Path
+First Explored
+Last Explored
+Shellbags Analysis sbag.exe
+ShellBagNoRoam\BagXxx
+Key Last Write Time
+sbag.exe Output Analysis
+inode
+Analyzing USB Devices
+Vendor/Make/Version
+Unique Serial Number
+MSC
+Mass Storage Class
+PTP
+Pitcure Transfer Protocol
+MTP
+Media Transfer Protocol
+UMS
+Mass Storage Device (MSC)
+MSC Overview
+Media Transport Protocol
+Picture Transfer Protocol (PTP)
+PTP Overview
+WIA
+Windows Image Acquisition
+WIA
+Windows Portable Device
+WPD
+Media Transfer Protocol (MTP)
+MTP Overview
+DRM
+exfiltration points
+Evidence of File Opening on USB Device
+MSC Devices
+MTP Devices
+WPDNSE
+Mass Storage Class Devices
+WPDNSE Folder (MTP Devices)
+WPDNSE Temp Folder
+WPDNSE Folder and GUID Analysis
+USB MSC Device Forensics on Win7/Win8
+USBSTOR
+XP/Win7/Win8 USB Devices
+What if you have MSC USB? Link via Serial # - UVCView
+UVCView
+MSC, PTP, and MTP USB Enumeration
+VID
+PID
+Discover the Volume Name
+MountedDevice
+Find the Last Drive Letter: USB Keys
+ParentIDPrefix
+Find Last Drive Letter: External USB Hard Drives
+MountedDevices
+Find the User that Used USB Device
+MountPoints2
+Discover Volume Serial Number
+EMDMgmt
+ReadyBoost
+USB Unique Serial Number
+Volume Serial Number Analysis
+MSC Device Times to Track
+First Time Device Connected
+Last Time Device Connected
+Removal Time
+First & Last Connected and USB Removal
+0064
+0066
+0067
+83da6326
+DEVPKEY_Device_FirstInstallDate
+First Time Device Connected - Alternative
+Last Time Device Connected - Alternative
+Time Device Disconnected - Removal
+Alternative: Discover First Time Device Connected
+setupapi.log
+setupapi.dev.log
+Alternative: Find First Time USB Plugged in via setupapi.dev.log
+Alternative: Win7/Win8 - Last Time Device Connected
+USB MSC Device Forensics on Win7/Win8
+Win7 USB Device Artifacts (MSC vs. PTP vs. MTP)
+DDO
+ContainerID
+ENUM\USB
+DeviceHandlers
+Automated Analysis - Dead Forensics
+USBDeviceForensics
+Key Word Searching
+Forensic Suites
+EnCase
+FTK
+Key Word Lists
+Index Search Form
+ASCII
+UNICODE
+Searching
+Boolean
+Index Search Wildcards
+Search Results
+Search Results List
+Review Results
+File List
+Triage Review of Hits
+Exporting Hits for Review
+
+
+What can E-mail Forensics Tell Us?
+What can We Analyze
+E-Mail Headers
+envelope
+Simple Mail Transfer Protocol
+SMTP
+Mail Transfer Agent
+MTA
+Message-ID
+X-Originating-IP
+X-IP
+X-Mailer
+Message-ID Threading
+In-Reply-To
+Extended MAPI Headers
+Microsoft Messaging Application Programming Interface
+MAPI
+Mapi-Client-Submit-Time
+Mapi-Conversation-Index
+Mapi-EntryID
+Mapi-Message-FLags
+Pr_Last_Verb_Executed
+Host-based E-mail
+Microsoft Outlook
+.PST
+Personal Storage Table
+Compressible encryption
+Kernel Outlook PST Viewer
+eDiscovery
+Offline Folder Files
+Cached Exchange Mode
+.OST
+Orphan .OST
+scanost.exe
+Kernel OST Viewer
+Outlook Attachment Recovery
+Secure Temp Folder
+Content.Outlook
+INetCache
+OLK
+timestamp phenomenon
+USNJournal
+E-Mail Analysis with nuix
+Cloud Services
+Other Host-based Formats
+Calendar and Contacts
+.ICS
+.SDB
+.WAB
+.PAB
+.VCS
+vCard
+.NNT
+.SDB
+Corrupted E-mail Archives
+E-mail Encryption
+S/MIME
+PGP/MIME
+.pgp
+.p7m
+Network-based mail encryption
+Transport Layer Security
+TLS
+Secure Socket Layer
+SSL
+Office 365 encryption
+Host-based E-mail Review
+E-mail Servers
+Server E-mail Forensic Tools
+Network E-mail Examiner
+Paraben Forensics
+Microsoft Exchange
+.EDB
+Extensible Storage Engine
+.STM
+MIME
+eseutil
+Deleted Objects in Exchange
+Delete
+Soft Delete
+Soft-deleted
+Hard Delete
+Hard-deleted
+non-IPM
+Exchange Dumpster
+Online Windows Acquisition Windows Server Backup
+Windows Server Backup
+WSB
+WSBExchange.exe
+Virtual Hard Disk
+VHD
+Exchange 2007: Export-Mailbox Tool
+Export-Mailbox
+ExMerge
+Export-Mail
+Exporting Mail in Exchange 2010_
+New-MailboxImportRequest
+New-MailboxExportRequest
+Exchange Multi-Mailbox Search
+.PST Proliferation!
+PST Capture
+Webmail Forensics
+AJAX
+Exporting Office 365 Mail
+MessageOps Exchange Migrator
+Microsoft Azure
+F-Reponse
+FOR508 Sneak Preview
+iSCSI
+Cryptome Legal Guides
+Compressed Webmail Remnants
+Webmail Remnants - Hotmail
+Webmail Remnants - Yahoo
+Mobile E-mail
+BlackBerry Enterprise Server
+BES
+Microsoft ActiveSync
+.IPD
+.mdbackup
+.mddata
+Review: Forensic E-mail Analysis
+Additional Artifacts Thumbs, RecycleBin, Prefetch
+Windows Search Database
+libesedb
+ESE Database
+windows.edb
+eseinfo
+eseexport
+ESE NT Utilites - Windows.edb
+esentutl
+Thumbnail Forensics thumbs.db
+Thumbs.db
+Thumbs.db Examination Thumbs Viewer
+Thumbs.db Exported
+Win7/Win8 Thumbcache
+Thumbcache Viewer
+Mapping File Names to Thumbscache
+Recycle Bin Forensics
+Recycled
+Recycler
+$Recycle.bin
+Recycle Bin
+INFO
+INFO2
+Win7/Win8 Recycle Bin
+$I
+Parsing Recycle Bin (recbin)
+recbin.exe
+Windows Prefetch Supertfetch
+Layout.ini
+Prefetching
+.pf
+pefetch_hashes_lookup.txt
+Prefetch Analysis - First last Execution
+Windows Prefetch Parser
+Prefetch Parser
+Prefetch Parser Output
+Prefetch Files
+Prefetch Analyser
+Prefetch Reports
+Distinct File Paths
+Prefectch File Analysis
+pf.exe
+Event Log Analysis
+Windows Events
+Event Logging service
+Event Log
+Event Log Analysis
+SecEvent.evt
+Application.evt
+AppEvent.evt
+SysEvent.evt
+.evtx
+Security.evtx
+Application.evtx
+System.evtx
+.evtx Log Format
+Windows Event Log
+Event Logging
+Types of Event Logs
+Security Log:
+System Log:
+Application Log:
+Directory Service:
+File Replication Service:
+DNS Server:
+Application & Service Logs
+Forwarded Events:
+Application and Services:
+Security Log
+LSASS
+What is Recorded? Security Event Categories
+Audit account logon events:
+Audit account management:
+Audit directory service access:
+Audit logon events:
+Audit object access:
+SACL
+System Access Control List
+Audit policy change:
+Audit process tracking:
+Audit system events:
+What are We Likely to Find? Default Security Logging
+Event Types
+Error:
+Warning:
+Information:
+Success Audit
+Failure Audit:
+Tracking account Usage
+Event ID Codes
+4624
+4625
+4634 / 4647
+4672
+528-552
+eventvwr.exe
+Logon Type
+Logged:
+Level:
+User:
+Computer:
+Source:
+Task Category:
+Event ID:
+General Description:
+Details:
+Logon Type Codes
+Identifying Logon Sessions
+4634
+4647
+4800/4801
+Tracking Account Usage Brute Force Password Attack
+BackTrack
+529
+Built-in Service Accounts
+SYSTEM:
+LOCAL SERVICE:
+NETWORK SERVICE:
+ANONYMOUS LOGON
+Tracking Account Usage Remote Desktop Protocol
+Fast User Switching
+RDP
+4778
+4779
+528
+682
+683
+Account Logon Events
+Logon Event
+NTLM protocol
+4776
+Kerberos protocol
+4768
+4769
+4771
+NTLM
+Account Logon Error Codes (Kerberos)
+0x6:
+0x7:
+0xC:
+0x12
+0x17
+0x18
+0x25
+675
+Non-existent account username
+Incorrect password (username correct)
+Account not allowed to login at this time
+Expired password
+Account locked
+Find a Rogue Local Account
+Locating Log Evidence
+Lateral Movement Detection
+Alternate Logon Sources: TaskScheduler & RdpCore
+Analysing File & Folder Access
+4656
+4660
+4663
+Handle to object request
+Object deleted
+Access attempt on object
+Global Object Access Auditing
+Object Auditing Events
+Audit File System
+Audit Handle Manipulation
+File and Folder Object Access Success and Failure
+Application Installation
+1033
+1034
+11707
+11708
+11724
+Installation completed
+Application removal completed
+Installation operation failed
+Application removal completed successfully
+Evidence of Malware Execution
+Application Event Log
+System Event Log
+PWDump
+LSASSCapturing
+Command Lines
+4688
+Suspicious Services
+7034
+7035
+7036
+7040
+7045
+4697
+Service crashed unexpectedly
+Service sent a Start / Stop control
+Service started or stopped
+Start type changed (Boot | On Request | Disabled)
+A service was installed on the system (Win2008R2)
+A service was installed on the system (from Security log)
+Service Control Manager
+SCM
+fgdump
+Time Manipulation
+4616
+Tracking BYOD and External Devices
+20001
+4663
+4656
+Plug and Play driver install attempted (System log)
+Attempt to access removable storage object (Security log)
+Failure to access removable storage object (Security log)
+UsrPnpservice
+Tracking BYOD and External Devices Firewire (1394)
+Auditing Access to BYOD
+Audit Removable Storage
+Wireless Network Geolocation
+11000
+8001
+8002
+6100
+Wireless network association started
+Successful connection to wireless network
+Failed connection to wireless network
+Network diagnosis
+WLAN-Autoconfig Log
+BSSID
+Basic Service Set Identifier
+Media Access Control
+Network Diagnostics
+Event Log Clearing
+1102
+Audit log cleared
+WinZapper
+Extracting Event Logs
+Exporting from a live system
+Offline extraction
+Exporting online Logs
+Exporting offline Logs
+Offline Extractions
+evtwalk
+evtx_view
+Remote Log Access
+Remote management
+Event Log Explorer
+Regular Expression Filtering
+X-Path
+Event Log Analysis Resources
+Log Review with Mandiant Highlighter
+
+
+Internet Explorer rowser Forensics
+Browser Forensics
+What can we find During Browser Forensics?
+History Files
+Browser Cache
+Cookies
+Browser basics
+Internet Explorer (IE)
+IE6 / IE7
+IE8
+IE9
+IE10
+IE10
+IE11
+Where to Start: IE8 & IE 9 Data Locations
+Index.dat
+Roaming
+Local
+History.IE5
+Content.IE5
+Favorites
+IE 10 Data Locations
+WebCacheV*dat
+IE 11 Data Locations
+INetCache
+INetCookies
+Old School: Index.dat
+dir /a
+Extensible Storage Engine (ESE)
+DOMstore
+Internet Explorer History: Investigating Sites Visited
+DaysToKeep
+URL History
+Parsing WebCacheV*.dat
+LastAccessTime
+ContainerId
+Container
+WebCacheV*.dat History Tables
+ModifiedTime
+AccessedTime
+AccessCount
+Multiple Tables Per Artifact
+MSHist
+protected mode
+IE Data Location
+Legacy IE5-IE9 History Folders
+container.dat
+desktop.ini
+Local File Access in IE History
+Nirsoft BrowserHistoryView
+BrowsingHistoryView
+ESEDatabaseView
+Internet Explorer Cache: View the Browser Stockpile
+no_cache_write
+IE Cache Folders
+IE9 Cache Metadata: Index.dat
+URL
+Leak
+REDR
+HASH
+IE10+ Cache Metadata: WebCacheV*.dat
+SecureDirectory
+AccessCount
+IE Cache Timestamps
+CreationTime
+AccessedTime
+ModifiedTime
+ExipryTime
+LastChecked
+Internet Explorer Cookies: Digging Deep into Website Activity
+persistent
+IE Cookie Update
+Cookie Metadata
+Win8 Modern UI Application
+INetCache
+INetCookies
+INetHistory
+windows_ie_ac_XXX
+IE Download History
+IE Download History IE10+
+ResponseHeaders
+ESE Databases are Dirty!
+ESE NT Utilities - WebCache
+Read Headers:
+Recover dirty db:
+Carving the ESE Database
+ESEcarve
+ESECarve.exe
+IE Auto-Complete: What was the User Typing
+Address bar history
+TypedURLs
+TypedURLsTime
+Typed URLs
+Auto-Complete Data:
+Protected Storage / Windows Vault
+Internet Explorer Credential Manager
+Windows Vault
+Data Protection API
+DPAPI
+WebBrowserPassView
+Protected Storage
+.vcrd
+Decrypting .vcrd Files
+Web Browser Bookmarks: Looking at Saved Locations
+InternetShortcut
+NirSoft FavoritesView
+IE8 and Beyond
+Recovered Folders
+Web (DOM)
+Web Storage
+IE Session Recovery
+RecoveryStore files
+NoReopenLastSession
+Save_Session_History_On_Exit
+IE Session Recovery Folders
+RecoveryStore
+Structured Storage Viewer
+MiTeC Structured Storage Viewer
+ParseRS & RipRS
+Recovery Folder Parsing tool
+IE Session Recovery Form Data
+{GUID}.dat
+InPrivate Browsing Mode
+Porn Mode
+Recovering InPrivate Artifacts
+Cache files
+Automatic Crash
+InPrivate Session recovery
+InPrivate Artifact Carving
+Magnet Forensics
+IE Synchronization
+LastRoamed
+WinInet
+History, Favorites, TypedUrls Synchronization
+IE 11 TabRoaming
+IE11 Tab Synchronization
+TabRoaming
+MachineInfo.dat
+Dissecting a Roaming tab
+Can We Differentiate Synced Data
+Identifying Synchronized IE History
+ExpiryTime
+What synced data persists after a history is cleared?
+IE Forensics Methodology
+Mozilla Firefox
+Firefox Versions
+user_pref
+Firefox Major Version Releases
+Where to Start: Firefox File Locations
+Firefox and SQLite
+places.sqlite
+formhistory.sqlite
+cookies.sqlite
+signons.sqlite
+webappsstore.sqlite
+extensions.sqlite
+Validate your Tools!
+History Artifacts in Firefox: Investigating Sites Visited
+browser.history.expiration.transient_current_max_pages
+How was the Web Page Requested? Visit Types in Firefox
+Case Study: Julie Amero
+Using NirSoft Tools - Step-By-Step
+MozillaHistoryViewer
+NirSoft MozillaHistoryView
+MozillaHistoryView
+index.html
+Firefox Cache: Viewing the Browser Stockpile
+Browser.cache.disk.capacity
+prefs.js
+cache
+cache2
+Firefox Cache Files (prior to v32)
+Cache Map
+Cache Block
+Cache Data
+Firefox Cache2
+cache2\entries
+NirSoft MozillaCacheView
+Firefox Cookies: Going Deep into Website Activity
+NirSoft MozillaCookieView
+Google Analytics Cookies
+utma
+utmb
+utmc
+utmv
+utmx
+utmz
+Google Analytics Cookies Unique Visitors
+Google Analytics Cookies Session Tracking
+Google Analytics Cookies Traffic Sources
+GA Cookie Cruncher
+Local Stored Objects (Flash Cookies)
+Local Stored Objects
+LSO
+NirSoft FlashCookiesView
+HTML5 Web Storage
+webappstore2.sqlite
+DOMStore
+Local Storage
+Super Cookie
+http_bits.blogs.bytimes.com_0.localstorage
+IE Web Storage (DOMStore)
+SPMruDocsItemJson
+FireFox Download History: Examining what was downloaded
+anno_attribute_id 8
+place_id
+anno_attribute_id 7
+anno_attribute_id 9
+anno_attribute_id 9
+moz_places
+browser.download.lastdir
+Investigating Download History: SQL Manager Plug-in
+moz_annos
+Firefox Auto-complete: What was the User Typing
+formhistory.sqlite
+PRTIME
+DumpAutoComplete
+SQLite Manager: formhistory.sqlite
+searchbarhistory
+Firefox Session Restore
+sessionstore.js
+Session Restore
+.bak
+browser.sessionstore.enabled
+browser.sessionstore.max_windows_undo
+sessionstore.bak
+FirefoxSessionRestoreExtractor
+Firefox Privacy Settings
+Firefox Privacy Additions
+Clear Recent History:
+Forget About This Website:
+Private Browsing:
+Private Browsing Mode
+Recovering Deleted Artifacts in FireFox
+SQLite Deleted Data
+CCL Group epilog
+Sanderson SQLite Recovery
+sqlparse.py
+Firefox Extensions
+Add N Edit Cookies
+Firebug
+extensions.sqlite
+addons.sqlite
+extensions.rdf
+install.rdf
+Firefox Forensic Methodology
+Why Can’t One Tool Do it All?
+Google Chrome
+WebKit
+SQLite
+JSON
+SNSS
+Chrome History Artifacts: Investigating Sites Visited
+Segments
+Archived History
+Top Sites
+Chrome History Page Transition Types
+transition
+visits
+History database
+CHAIN_START
+CHAIN_END
+CLIENT_REDIRECT
+SERVER_REDIRECT
+IS_REDIRECT_MASK
+QUALIFIER_MASK
+Chrome Timestamps
+Webkit Format
+Unix epoch
+DCode
+Chrome Cache: Viewing the Browser Stockpile
+disk_cache::kMaxBlockSize
+Nirsoft ChromeCacheViewer
+ChromeCacheViewer
+Rebuilding Cached Webpages
+NetAnaylsis
+Internet Evidence Finder
+Hindsight Chrome Forensics
+ChromeHistoryView
+ChromeFornesics Tool
+hindsight.py
+Chrome Review
