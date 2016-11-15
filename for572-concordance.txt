@@ -26,6 +26,7 @@ binary protocol analysis
 block cipher
 botnet
 bpf primitive
+bro nsm
 byod
 calamaris
 caploader
@@ -49,10 +50,6 @@ deliberate modification
 derivative log file
 determine content type
 dga
-dhcp log
-dhcp process
-dhcp server config
-dhcpd.conf
 diffie-hellman
 directionality
 distributed log storage and analysis
@@ -91,6 +88,8 @@ guard intelligence
 http log
 http request method
 http response code
+http/2
+hubspot
 iis
 iis log file format
 information seeking mantra
@@ -123,10 +122,10 @@ mdk3
 message based
 mime part
 mixed protocol analysis
+moloch
 msa
 mta
 mua
-multi ssid ap
 mx
 name-based virtual hosting
 native ssl
@@ -139,7 +138,7 @@ network data acquisition
 network design
 networkminer
 nfcapd
-nfsen
+nfpcapd
 nfsight
 ngrep
 notebook
@@ -156,10 +155,11 @@ osint
 outlook
 parallel axis
 pass-the-hash
+passive dns
 passive ftp
 passivedns
+passivedns
 pcap file format
-peekflow pravail
 perfect forward secrecy
 pineapple
 plain text
@@ -208,6 +208,7 @@ smtp body
 smtp header
 snort alert
 social engineering toolkit
+sof-elk
 span port
 sshcure
 ssl inspection
@@ -227,7 +228,6 @@ tcpflag
 tcpflow
 tcpslice
 tcpstat/tcpdstat
-tcptrace
 tcpxtract
 template record
 tkip
@@ -254,9 +254,7 @@ what to capture
 wildcard
 windows 8
 windows evtx
-windows os bridging
 wireless distribution system
 wpa2
 wps
-xplico
 yersinia
