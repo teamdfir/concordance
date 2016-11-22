@@ -1,0 +1,519 @@
+﻿24kpwn
+91 mobile
+Abbreviated Dialing Numbers (ADN); "Abbreviated Dialing Numbers" in page or "ADN" in page
+ABC Amber
+Absinthe
+accounts.db
+ACPO
+Acquisition Action
+ActiveSync
+ActiveSync; "active sync" in page or "activesync" in page
+AddressBook
+Address Book
+AddressBook.sqlitedb
+Adware
+Aggregated Contacts
+Airplane Mode
+AirWatch
+Always Off Rule; "Always off" in page
+.alx
+Andrew Case
+Andrew Hoog
+Andriller
+Android Debug Bridge (ADB); "Android Debug Bridge" in page or "ADB" in page
+Android Developer Toolkit
+Android Device Manger
+AndroidManifest.xml
+Android Runtime
+Anubis; "anubis" in page or "andrubis" in page
+APK Inspector
+.apk;page.count(".apk") > 2
+.app
+AppleComputer Folder; "applecomputer" in page
+Apple Continuity
+Apple File Connection (AFC); "apple file connection" in page or "AFC" in cswordlist
+Apple Watch
+Application Framework
+AppsLib
+Apps Zoom
+Aptoide
+Archiving
+Autopsy
+Backdoor
+Backup Services
+.bar
+Base64
+BatchGeo
+batterystats.bin
+.bbb
+.bbb; "bbb" in cswordlist
+best practice guide
+Bitdefender
+Bitlocker
+BlackBerry
+Blackberry Backup
+BlackBerry Desktop Manager (BDM); "blackberry desktop manager" in page or "BDM" in cswordlist
+BlackBerry Enterprise Software (BES); "blacknerry enterprise software" in page or "BES" in cswordlist
+BlackBerry Internet Service (BIS); "blackberry internet service" in page or "BIS" in cswordlist
+BlackBerry Link
+BlackBerry Link Backup file (.bbb); "blackBerry link backup file" in page or ".bbb" in cswordlist
+BlackBerry Messenger
+BlackBerry Messenger (BBM); "blackBerry messenger" in page or "BBM" in cswordlist
+BlackBerry OS
+BlackBerry OS 10
+BlackBerry Playbook
+Blink
+Blocks
+Bluetooth
+Bookmarks.db
+Bookmarks.plist
+Boot Loader
+Bricking; "brick" in page or "bricking" in page or "bricked" in page
+browser.db
+Burner
+/cache
+cache.cell
+Cache.db
+cache.wifi 
+call_history.db
+callhistory.storedata
+CallHistory.storedata
+Call logs
+Call Logs
+Carving; "carve" in page or "carving" in page
+Cellebrite
+Cellebrite Advanced Investigative Services (CAIS); "cellebrite advanced investigative services" in page or "CAIS" in cswordlist
+Cells
+Cell towers
+cemail.vol
+CFAbsoluteTimeConverter
+Chain Manager
+chess.db
+Chip-off
+classes.dex
+Class Key
+CNET
+Cocoa Touch framework
+.cod
+Code Divided Multiple Access (CDMA); "Code Divided Multiple Access" in page or "CDMA" in page
+com.apple.Carousel
+com.apple.ipod.plist
+Communications Statistics
+Confide
+consolidated.db
+contacts2.db
+Conversion
+Customizable Secure Boot (CSB); "Customizable Secure Boot" in page or "CSB" in page
+Cyber Dust
+Cydia
+dalvik-cache
+Dalvik Virtual Machine (DVM); "Dalvik" in page or "DVM" in page
+/data
+Data Extraction Wizard
+DCIM/100APPLE
+DeCode
+Decode Images
+decoding
+Decompiler
+destination_history
+Device Passcode
+DeviceRegistry
+Dex2Jar
+Dexter
+DFU mode
+Digital Camera Images (DCIM); "digital camera images" in page or "DCIM" in cswordlist
+dmappmgr.db
+Docs To Go
+Documenting
+/download
+Dropbox
+DropCopy
+Dynamic-text.dat
+eDEC Tarantula
+Effacable Storage
+Elcomsoft
+Elcomsoft iOS Forensic Toolkit
+Elcomsoft Phone Password Breaker; "elcomsoft phone password breaker" in page or "EPPB" in cswordlist
+Electronic Serial Number (ESN); "Electronic Serial Number" in page or "ESN" in page 
+Elementary Files (EF); "Elementary Files" in page
+Embedded Multimedia Cards (eMMC); "Embedded Multimedia Cards" in page or "eMMC" in page
+emmc.db
+Enable Handoff
+EnCase
+Encryption, Full Disk; "FDE" in page or "Full Disk" in page
+Encrypt Local Backup
+Envasi0n
+Epilog
+events_serv.db
+Evernote
+evidentiary locations
+Exchangeable image file format (EXIF); "Exchangeable image file format" in page or "EXIF" in page
+Exchange ActiveSync
+EXFAT
+external.db
+extraction
+Facebook
+Facebook Messenger
+Facetime
+FaceTime
+Face Unlock
+Faraday
+FAT file system
+fbsyncstore.db
+F-Droid
+FileHopper
+File Key
+File System Acquisition
+File System Extraction
+FindMyiPhone
+Find My iPhone
+flash.bin
+Flash Counter
+Flasher box
+Flash Translation Layer (FTL); "flash translation layer" in page or "FTL" in cswordlist
+FlexiSpy
+flowchart
+FourSquare
+Frankly
+FreeType
+Frhed
+Friendster
+fstab
+FTK Imager
+Fuzzy Search
+Garbage Collection (GC); "Garbage Collection" in page or " GC " in page
+Garmin Street Pilot
+Gartner
+GeoHistory.mapsdata
+GeoServices
+Gesture
+gesture.key
+Gingerbread
+Glance
+Global System for Mobile Communications (GSM); "Global System for Mobile Communications" in page or "GSM" in page
+Good Practice Guide
+Google Docs
+Google Maps
+Google Wallet
+GUID
+Hash; "hash" in cswordlist or "hashes" in cswordlist or "hashed" in cswordlist
+hex
+Hex editor
+Heywire
+HFS+
+HFSK
+History.plist
+Hive
+Hotspots
+HTC
+Huawei
+iCloud
+Identification
+IEF Mobile
+ifans; "www.ifans.com" in page
+iMessage
+info.mkf
+Info.plist
+Intake
+Integrated Circuit Card Identification (ICCID); "Integrated Circuit Card Identification" in page or "ICCID" in page
+International Mobile Subscriber Identity (IMSI); "International Mobile Subscriber Identity" in page or "IMSI" in page;
+Internet history
+iOS Version
+iPad 5
+iPad Mini
+iP-BOX 
+.ipd; "ipd" in cswordlist
+iPhone 4
+iPhone 4s
+iPhone 5
+iPhone 5s
+iPhone 6
+iPhone 6s
+Isolation
+iTunes
+iXAM
+.jad
+Jailbreak; "jailbreak" in page or "jailbroken" in page or "jail break" in page or "jailbreaking" in page
+.jar
+Java Decompiler
+Java Platform Micro Edition (Java ME); "java platform micro edition" in page or "Java ME" in cswordlist
+JavaScript Object Notation (JSON); "javascript object notation" in page or "JSON" in cswordlist
+jd-gui
+Jelly Bean
+jg-gui
+JotNot
+JTAG
+JTAG; "JTAG" in page or "Joint Test Action Group" in page
+Juniper Networks; "juniper" in page
+Jurisdiction
+Kaspersky Labs; "kaspersky" in page
+Keyboard Cache
+Key Evidence
+Kies
+Kik Messenger
+KitKat
+.kml
+kml file
+KNOX
+Libraries
+Library folder
+Linux Kernel
+Linux Memory Extractor (LiME); "Linux Memory Extractor" in page or "LiME" in page
+Liveness Check
+localstorage
+Locard's Exchange Principle
+Locations; "data/app folder" in page or "microsd" in page
+Locations.kml
+Lockdown File; "lockdown" in page
+Logical Acquisition
+Logical Extraction
+logs.db
+Lollipop
+Low-Power Assist
+Maas360
+Magellan RoadMate
+Magnet Forensics
+Malware
+Malware, Detection; "malware detection" in page
+malware scanner
+Manifest.mbdb
+Manifest.plist
+Manual Examination
+mapsdata
+Marshmallow
+Mbackup
+.mbm
+Media Framework
+message_attachment_join
+message_id
+metadata
+Microsystemation
+MIDP
+.mif
+mmssms.db
+/mnt
+Mobango
+Mobile Device Management (MDM); "Mobile Device Management" in page or "MDM" in page
+Mobile Directory Number (MDN); "Mobile Directory Number" in page or "MDN" in page
+Mobile Equipment ID (MEID); "Mobile Equipment ID" in page or "MEID" in page
+Mobile Identification Number (MIN); "Mobile Identification Number" in page or "MIN" in page
+MobileIron
+Mobile Sandbox
+MobileSpy
+MobileSync Folder; "mobilesync" in page
+MobiStealth
+Monitoring
+MPE+
+MSAB
+mSpy
+Multimedia Messaging Service (MMS); "multimedia messaging service" in page or "mms" in page
+MySpace
+NAND
+NAND Flash Memory; "NAND" in page
+NAND Flash; "NAND" in cswordlist
+nanopasses.sqlite3
+NBU Backup Explorer
+Near Field Communication (NFC); "near field communication" in page or "nfc" in page
+NEFconfig.xml
+Network Service Provider (NSP); "Network Service Provider" in page or "NSP" in page
+.nfl
+Nike+
+Nimbuzz
+Nokia
+Nokia Backup Explorer
+Nokia Belle
+Nokia PC Suite
+Nokia’s Lifeblog
+Nokia Symbian
+NOR
+NOR Flash; "NOR" in cswordlist
+notes.sqlite
+Notification
+NTFS
+NVISO
+.obliterated
+oneNAND
+On/Off Rule; "On/Off" in page or "On / Off" in page
+OpenGL
+OpenTable
+Out of Bound (OOB); "Out of Bound" in page or "OOB" in page
+Over The Air (OTA); "over the air" in page or "OTA" in cswordlist
+Over the Air (OTA); "Over the Air" in page or "OTA" in page
+Ovi Suite
+Oxygen Forensics Suite; "oxygen" in page
+packages.list
+packages.xml
+PadMapper
+Pages
+PairedSync
+PanGu
+Paraben
+Paraben Device Seizure
+Passcode
+Passwords folder
+PayPal
+Personal Identification Number (PIN); "Personal Identification Number" in page or "PIN" in page
+Personal Information Management (PIM); "personal information management" in page or "PIM" in cswordlist
+Personal Unblocking Key (PUK); "Personal Unblocking Key" in page or "PUK" in page
+PhotoData
+Physical Extraction
+pim.vol
+PIN Unblocking Key (PUK); "PIN Unblocking Key" in page or "PUK" in page
+Plist
+PList Editor
+Plists
+Plug-in
+POSIX
+Potentially Unwanted Application (PUA); "potentially unwanted application" in page or "pua" in page
+Preferences
+Preparation
+Presentation
+PrivatOS
+Processing
+properties.bin
+Property List Files (Plist); "property list files" in page or "plist" in cswordlist
+QNX
+QR Code
+Ransomware
+Rapid Identification Friend or Foe (RIFF); "Rapid Identification Friend or Foe" in page or "RIFF" in page
+raw_contacts table
+Recently Deleted; "recently deleted" in page
+Record Stores
+Recovery Mode; "Recovery" in page
+RedBox
+Registry
+Remote Code Execution (RCE); "remote code execution" in page or "RCE" in page
+Removable User Identity Module (R-UIM); "Removable User Identity Module" in page or "R-UIM" in page
+Removable User Identity Module (RUIM); "Removable User Identity Module" in page or "RUIM" in page
+.rem; ".rem" in page
+Repackaging
+Repair
+reporting
+Reporting
+Research in Motion (RIM); "research in motion" in page or "RIM" in cswordlist
+Riley v. California
+.rms
+Robust File System (RFS); "Robust File System" in page or "RFS" in page
+Root; "root" in page or "rooting" in page or "superuser" in page
+.rsc
+Safari
+SAFE
+Samba
+Samsung
+Samsung Kies
+Sandbox
+Santoku
+SaveIt!
+SD Card
+search_history.db
+SearchResults.dat
+Secure Digital eXtended Capacity (SDXC); "Secure Digital eXtended Capacity" in page or "SDXC" in page
+Secure Digital High Capacity (SDHC); "Secure Digital High Capacity" in page or "SDHC" in page
+secureProperties.bin
+Security Enhanced Linux (SELinux); "Security Enhanced Linux" in page or "SELinux" in page
+Service Books
+Service.plist
+SGL
+Shared Memory File (SHM); "shared memory file" in page or "SHM" in cswordlist
+ShareFile
+Short Message Service (SMS); "Short Message Service" in page or "SMS" in page
+Short Messaging Service Center (SMSC); "Short Messaging Service Center" in page or "SMSC" in page
+Silent Text
+SIM Cloning
+SIMIS
+Siri
+.sis
+Skype
+Slide ME
+Smarterforensics.com
+Smart Lock
+Smishing
+SMS.db
+Snapchat
+SnapChat
+Solid State Memory 
+Sophos
+SpyBubble
+Spyera
+Spyware
+SQLite
+Square
+SSL
+Stagefright; "stagefright" in page or "libStageFright" in page
+Store.sqlite
+Subscriber Identity Module (SIM); "Subscriber Identity Module" in page or "SIM" in page
+Surface Manger
+SWGDE
+Symbian OS
+System-on-a-Chip (SoC); "system-on-a-chip" in page or "SoC" in cswordlist
+Tango
+Tappin
+TAPs; "TAP" in page or "TAPs" in page or "Test Access Ports" in page
+TarArchive
+TaxiMagic
+TeleNav
+TigerText
+TMSI
+Tracer
+Trace Window
+Trackware
+Trojan
+Trulia
+Trust Platform Module (TPM); "trust platform module" in page or "trusted platform module" in page or "TPM" in cswordlist
+TrustZone based Integrity Measurement Architecture (TIMA); "TrustZone based Integrity Measurement Architecture" in page or "TIMA" in page
+Twitter
+UberCab
+UFED4PC
+UFED Link Analysis; "ufed" in page
+UFED Touch
+Universal Integrated Circuit Card (UICC); "Universal Integrated Circuit Card" in page or "UICC" in page
+Unrecognized
+UrbanSpoon
+usage-history.xml
+USB debugging
+user_dict.db
+User Dictionary
+Verification
+viaExtract
+viaForeniscs
+Viber
+Virus Total
+VZ Navigator
+watch list
+Watch List
+Watch Lists
+Waze
+Wear Leveling
+webkit
+WebKit
+webviewCached.db
+webview.db
+Whatsapp
+WhatsApp
+Wickr
+Wi-Fi assist
+Windows CE
+Windows Mobile
+Windows Phone
+WireLurker
+Wireshark
+WordsWithFriends
+Words With Friends
+WordWithFriends
+Worm
+Wrist Detection
+Write Ahead Logs (WAL); "write ahead log" in page or "WAL" in cswordlist
+XACT
+XAMN
+Xcode
+XcodeGhost
+XenMobile
+XRY
+XRY Reader
+Yahoo Messenger
+Yandex
+Yet Another Flash File System (YAFFS2); "Yet Another Flash File System" in page or "YAFFS2" in page
+Zdziarski Method
+Zedge
+Zimperium Labs; "zimperium" in page
+.zip;page.count(".zip") > 2
