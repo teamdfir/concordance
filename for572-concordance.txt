@@ -63,8 +63,7 @@ block cipher
 botnet
 bpf
 bpf primitive
-bro
-bro nsm
+Bro NSM;"bro nsm" in page or "bro" in cswordlist
 bss
 bssid
 bubble diagram
