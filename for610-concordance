@@ -1,0 +1,374 @@
+ADD; "ADD" in cswordlist
+Address Space Layout Randomization (ASLR); "address space layout randomization" in page or "ASLR" in cswordlist
+Adobe Reader
+AND; "AND" in cswordlist
+ApateDNS
+apihooks
+automated sandboxes
+base64dump.py
+bbcrack.py
+Beaconing
+beautify; "beautify" in page or "beautification" in page
+BelkaSoft Live RAM Capturer
+BinText
+BlockInput
+box-js
+Browser Helper Objects (BHOs); "browser helper objects" in page or "BHOs" in cswordlist
+brutexor.py
+brxor.py
+CallNextHook
+Call Stack
+call table hooks
+capstone engine
+cdecl
+CFF Explorer
+cleardb
+Clonezilla
+CloseClipboard
+CMP; "CMP" in cswordlist
+command and control (C2); "command and control" in page or "C2" in cswordlist
+conditional jump
+CreateMutex
+CreateProcess
+CreateRemoteThread
+CREATE_SUSPENDED
+CreateToolhelp32Snapshot
+CryptDecrypt
+CryptEncrypt
+CScript
+curl
+d8
+data structure
+Deep Freeze
+dereferencing
+Detect It Easy (DIE); "detect it easy" in page or "DIE" in cswordlist
+Device Driver
+dlllist
+document.write
+dropper
+DS; "DS" in cswordlist
+DumpIt
+dwFlags
+DynamicBase
+EAX; "EAX" in cswordlist
+EBP; "EBP" in cswordlist
+EBX; "EBX" in cswordlist
+ECX; "ECX" in cswordlist
+EDI; "EDI" in cswordlist
+EDX; "EDX" in cswordlist
+EFLAGS; "EFLAGS" in cswordlist
+EIP; "EIP" in cswordlist
+EnumProcess
+ES; "ES" in cswordlist
+ESI; "ESI" in cswordlist
+ESP; "ESP" in cswordlist
+eval
+Exeinfo
+Exfiltration
+exiftool
+fakedns
+FakeNet-NG
+fastcall
+Fast Library Identification and Recognition Technology (FLIRT); "fast library identification and recognition technology" in page or "FLIRT" in cswordlist
+feh
+Fiddler
+FileInsight
+Firebug
+FireWire
+FlateDecode
+FLOSS
+FOG; "FOG" in cswordlist
+for loop; "for" in page and "loop" in page
+Foxit Reader
+Framework
+FS; "FS" in cswordlist
+general-purpose registers
+GetAsyncKeyState
+GetClipboardData
+GetCursorPos
+GetKeyState
+GetModuleHandle
+GetThreadContext
+GetTickCount
+GetWindowText
+Global Descriptor Table (GDT); "global descriptor table" in page or "GDT" in cswordlist
+grep
+GS; "GS" in cswordlist
+heap spraying
+Hextostring
+HKEY_CURRENT_USER (HKCU); "hkey_current_user" in page or "HKCU" in cswordlist
+HKEY_LOCAL_MACHINE (HKLM); "hkey_local_machine" in page or "HKLM" in cswordlist
+hooking
+Hopper
+HTML Applications (HTAs); "html applications" in page or "HTAs" in cswordlist
+HttpOpenRequest
+IDA Pro
+IEEE 1394
+Import Address Table (IAT); "import address table" in page or "IAT" in cswordlist
+Import/Export Table
+impscan
+IMUL; "IMUL" in cswordlist
+Indicator of Compromise (IOC); "indicator of compromise" in page or "IOC" in cswordlist
+INetSim
+inline hooks
+Internet Explorer
+Internet Relay Chat (IRC); "internet relay chat" in page or "IRC" in cswordlist
+Interrupt Descriptor Table (IDT); "interrupt descriptor table" in page or "IDT" in cswordlist
+I/O Request Packet (IRP); "i/o request packet" in page or "IRP" in cswordlist
+iptables
+JGE; "JGE" in cswordlist
+jmp2it
+JMP; "JMP" in cswordlist
+JNE; "JNE" in cswordlist
+JNG; "JNG" in cswordlist
+JNL; "JNL" in cswordlist
+JNZ; "JNZ" in cswordlist
+JonDonym
+js-didier
+Kahu
+Kahu Security
+kdbgscan
+Keylogger
+keystroke logger
+KnTDD
+layering
+ldrmodules
+LEAVE; "LEAVE" in cswordlist
+libemu
+LibreOffice
+LoadLibrary
+location.href
+LOOPcc
+looping
+lower 16 bits
+lpFile
+lpOperation
+lpParameters
+lpStartAddress
+macros
+malfind
+MASTIFF
+memdump
+memory forensics
+Memory Map
+MEM_WRITE
+Microsoft APIs
+MicroSoft Developer Network (MSDN); "microsoft developer network" in page or "MSDN" in cswordlist
+Microsoft Office
+minidriver
+MOV; "MOV" in cswordlist
+mutant
+mutex
+Native APIs
+NoMoreXOR.py
+No OPeration (NOP); "no operation" in page or "NOP" in cswordlist
+Notepad++
+NtAllocateVirtualMemory
+NTDLL.DLL
+NtGetContextThread
+NtUnmapViewOfSection
+NT Virtual DOS Machine (NTVDM); "nt virtual dos machine" in page or "NTVDM" in cswordlist
+Object Linking and Embedding (OLE); "object linking and embedding" in page or "OLE" in cswordlist
+Office Open XML (OOXML); "office open xml" in page or "OOXML" in cswordlist
+OLE2
+olebrowse.py
+olecfinfo
+oledir.py
+oledump.py
+oleid.py
+olemap.py
+oletools
+olevba.py
+OllyDbg
+OpenAction
+OpenClipboard
+OpenClipBoard
+OpenProcess
+Open-Source INTelligence (OSINT); "open-source intelligence" in page or "OSINT" in cswordlist
+Open Threat Exchange
+OpenVPN
+Origami PDF
+Original Entry Point (OEP); "original entry point" in page or "OEP" in cswordlist
+OR; "OR" in cswordlist
+packerid
+page tables
+Parent Process ID (PPID); "parent process id" in page or "PPID" in cswordlist
+patching
+PCAP
+pdfid.py
+pdf-parser.py
+PDF Stream Dumper
+pdftk
+PE Capture
+peepdf.py
+peframe
+PE Header
+pepack
+percent Unicode
+pescan
+pestr
+PeStudio
+pe_unmapper
+Pev toolkit
+PhantomJS
+Pinpoint
+Portable Document Format (PDF); "portable document format" in page or "PDF" in cswordlist
+portex
+Position-Independent Code (PIC); "position-independent code" in page or "PIC" in cswordlist
+PowerShell
+PowerShell ISE
+ProcDOT
+Process32First
+Process32Next
+Process Environment Block (PEB); "process environment block" in page or "PEB" in cswordlist
+Process Hacker
+Process Hollowing
+Process IDentifier (PID); "process identifier" in page or "PID" in cswordlist
+Process ID (PID); "process id" in page or "PID" in cswordlist
+Process Monitor
+process replacement
+ProtectionID
+pstree
+PXE boot
+qpdf
+queuing
+Quttera
+Radare
+Radare2
+RAX register
+RDG Packer Detector
+ReadFile
+reg_export
+RegOpenKeyEx
+Regshot
+regsvr32.exe
+ResumeThread
+RETN; "RETN" in cswordlist
+RET; "RET" in cswordlist
+Rich Text Format (RTF); "rich text format" in page or "RTF" in cswordlist
+RIP pointer
+RIP-relative addressing
+RollBack Rx
+rootkit
+rtfdump.py
+RtlDecompressBuffer
+RunPE
+sandboxes
+Sandboxie
+scdbg
+SciTE
+Scout
+Scylla
+ScyllaHide
+Secure File Transfer Protocol (SFTP); "secure file transfer protocol" in page or "SFTP" in cswordlist
+Secure Shell (SSH); "secure shell" in page or "SSH" in cswordlist
+segment registers
+setdllcharacteristics
+SetThreadContext
+SetWindowsHook
+SetWindowsHookEx
+Shellcode
+shellcode2exe
+shellcode2exe.py
+ShellExecuteW
+SHL; "SHL" in cswordlist
+SHR; "SHR" in cswordlist
+signsrch
+SOCKS
+SpiderMonkey
+SS; "SS" in cswordlist
+Stages of malware analysis
+static analysis
+static analyzer
+stdcall
+strace
+Strace-for-NT
+strcpy
+strdeob.pl
+strings2
+Structured Exception Handling (SEH); "structured exception handling" in page or "SEH" in cswordlist
+Structured Storage (SS; "structured storage" in page or "SS" in cswordlist
+SUB; "SUB" in cswordlist
+Summary of the analysis
+svchost.exe
+swf_mastah.py
+switch statement
+SysAnalyzer
+system calls
+System Monitor (Sysmon); "system monitor" in page or "Sysmon" in cswordlist
+System Service Descriptor Table (SSDT); "system service descriptor table" in page or "SSDT" in cswordlist
+TcpLogView
+TEST; "TEST" in cswordlist
+thiscall
+Thread Information Block (TIB); "thread information block" in page or "TIB" in cswordlist
+Thread Local Storage (TLS); "thread local storage" in page or "TLS" in cswordlist
+ThreatAnalyzer
+Thug
+Tinba
+TitanMist
+TOR; "TOR" in cswordlist
+TorSocks
+trampoline
+TrickBot
+trid
+unescape
+Unicode
+unXOR
+unzip
+UPX
+urlQuery
+user-mode
+usewithtor
+V8
+vaddump
+Viper
+Virtual Address Descriptor (VAD); "virtual address descriptor" in page or "VAD" in cswordlist
+VirtualAlloc
+VirtualAllocEx
+VirtualBox
+Virtual Function Table (vftable); "virtual function table" in page or "vftable" in cswordlist
+Virtualization
+Virtual PC
+VirtualProtect
+VirusTotal
+Visual Basic for Applications (VBA); "visual basic for applications" in page or "VBA" in cswordlist
+VMDetection
+VMware
+Volatility
+VPN
+vURL
+wget
+while loop; "while" in page and "loop" in page
+Windbg
+WinDbg
+Windows Virtual PC
+WinGraph32
+WinPMEM
+WinSCP
+Wireshark
+WMIC
+WM_LBUTTONDOWN
+WM_LBUTTONUP
+WM_MOUSEMOVE
+WPE Pro
+WriteProcessMemory
+write-up
+WRITE; "WRITE" in cswordlist
+WScriptShell.Run
+x64dbg
+XCHG; "XCHG" in cswordlist
+XML
+XML-based Office documents
+XML Forms Architecture (XFA); "xml forms architecture" in page or "XFA" in cswordlist
+xorBruteForcer.py
+XORI
+xor-kpa.py
+XORSearch
+xortool
+xrefs window
+xxd
+zipdump.py
+ZwGetContextThread
+ZwProtectVirtualMemory
+ZwUnmapViewOfSection
+ZwWriteVirtualMemory
