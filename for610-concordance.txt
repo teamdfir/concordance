@@ -28,6 +28,8 @@ CloseClipboard
 CMP; "CMP" in cswordlist
 command and control (C2); "command and control" in page or "C2" in cswordlist
 conditional jump
+console.group
+console.log
 CreateMutex
 CreateProcess
 CreateRemoteThread
@@ -73,7 +75,7 @@ Fast Library Identification and Recognition Technology (FLIRT); "fast library id
 feh
 Fiddler
 FileInsight
-Firebug
+FindSc
 FireWire
 FlateDecode
 FLOSS
@@ -102,8 +104,7 @@ hooking
 Hopper
 HTML Applications (HTAs); "html applications" in page or "HTAs" in cswordlist
 HttpOpenRequest
-IDA Pro
-IEEE 1394
+IDA; "IDA" in cswordlist
 Import Address Table (IAT); "import address table" in page or "IAT" in cswordlist
 Import/Export Table
 impscan
@@ -339,7 +340,6 @@ VPN
 vURL
 wget
 while loop; "while" in page and "loop" in page
-Windbg
 WinDbg
 Windows Virtual PC
 WinGraph32
@@ -352,7 +352,6 @@ WM_LBUTTONUP
 WM_MOUSEMOVE
 WPE Pro
 WriteProcessMemory
-write-up
 WRITE; "WRITE" in cswordlist
 WScriptShell.Run
 x64dbg
