@@ -1,7 +1,5 @@
-Term
 1
 98
-104
 104
 106
 119
@@ -17,7 +15,6 @@ Term
 683
 1001
 1033
-1033
 1034
 1102
 1102
@@ -27,21 +24,15 @@ Term
 4106
 4616
 4624
-4624
-4624
-4625
 4625
 4634
 4646
 4647
 4648
 4648
-4648
 4656
 4660
 4663
-4672
-4672
 4672
 4672
 4688
@@ -52,8 +43,6 @@ Term
 4700
 4701
 4702
-4720
-4720
 4720
 4720
 4722
@@ -88,10 +77,13 @@ Term
 11724
 20001
  Timeline Analysis - Process
+.
+.evt
+.evtx
+\Device\PhysicalMemory
 $ATTRDEF
 $ATTRIBUTE_LIST
 $BADCLUS
-$BITMAP
 $BITMAP
 $BOOT
 $DATA
@@ -101,9 +93,13 @@ $Data – Resident
 $Data Header
 $EA
 $EA_INFORMATION
+$EA_INFORMATION
 $EXTEND
 $FILE_NAME
+$FILE_NAME
 $File_Name Header
+$Filename
+$I30
 $I30 – Index Block
 $I30 – Slack space
 $I30 Header
@@ -113,34 +109,41 @@ $INDEX_ALLOCATION
 $INDEX_ROOT
 $INDEX_ROOT
 $J
-$J
 $LOGFILE
 $LOGFILE: Transaction Logging
 $LOGGED_UTILITY_STREAM
-$Max
+$LOGGED_UTILITY_STREAM
 $Max
 $MFT
+$MFT
+$MFTMIRR
 $MFTMIRR
 $OBJECT_ID
+$OBJECT_ID
+$ObjId
 $ObjId
 $Quota
+$Quota
+$Reparse
 $Reparse
 $REPARSE_POINT
+$REPARSE_POINT
 $SECURE
+$SECURE
+$SECURITY_DESCRIPTOR
 $SECURITY_DESCRIPTOR
 $STANDARD_INFORMATION
 $Standard_Information Header
+$UPCASE
 $UPCASE
 $UsnJrnl
 $UsnJrnl
 $UsnJrnl Reason Codes
 $VOLUME
 $VOLUME_INFORMATION
+$VOLUME_INFORMATION
 $VOLUME_NAME
-.
-.evt
-.evtx
-\Device\PhysicalMemory
+$VOLUME_NAME
 0x12
 0x17
 0x18
@@ -179,27 +182,30 @@ Account Logon Events
 Account Logon Events
 Account Management
 Account Mgmt  (Event Log)
+Account Usage
+Acquiring Processes
 Acquiring Processes and Drivers – Volatility
 Active Defense (Containment)
-Additional Time Rule Exceptions
 Additional Time Rule Exceptions
 Admin Account Activity
 Admin Shares
 Admin Shares – Detection
 Admin Shares – Permissions required
 ADMIN$
-Admin$
 Advanced Adversary & Anti-Forensics Detection
 Advanced Incident Response & Threat Hunting
 Advanced Incident Response & Threat Hunting
 Advanced Memory Analysis
 Advanced NTFS Journal Parser (ANJP)
-Advanced NTFS Journal Parser (ANJP)
+Advanced Persistent Threat
 Adversary Operation Process
 Allocated Clusters
+Alternate Data Streams
 Alternate Data Streams (ADS)
 Alternate Logon Sources: TaskScheduler and RDPCore
 AmCache.hve
+Amcache.hve
+amcache.hve
 AmCache.hve – Contents
 AmCache.hve – Location
 AmCache.hve – Parsing
@@ -210,16 +216,20 @@ AmcacheParser
 AmcacheParser - Output
 Analysis Pass
 Analysis Scenarios
+analyzeMFT.py
 Analyzing Process Object Plugins
+Analyzing Process Objects
 Analyzing Process Objects
 Analyzing Process Objects – Volatility
 Analyzing Process Objects: Review 
 Analyzing Processes – Identifiers of Evil
+ANJP
 Anonymous Logon
 Anonymous LogonService Account
 Anti-Forensics 
-Antivirus Checks
 Anti-Virus logs (Event logs)
+Antivirus Checks
+apihooks
 apihooks
 apihooks
 AppCompatCacheParser
@@ -233,14 +243,16 @@ Application Deployment Software
 Application Deployment Software – Detection
 Application Experience
 Application Installation
-Application Installation
 Application Log   (Event Log)
+Application of techniques
 Application Vulnerabilities
 Applications and Services (Event Log)
 Aquiring Memory
 Arsenal - Hibernation Recon
 Artifacts - Chart
+ASEP
 AsJob
+at job
 at.exe
 ATT&CK
 ATT&CK - Collection
@@ -254,34 +266,38 @@ ATT&CK- Credential Access
 ATT&CK- Discovery
 ATT&CK- Exectuion 
 ATT&CK- Lateral Movement 
+attack progression
+Auto-start Extensibility Point (ASEP)
 Automated Memory Analysis
 Automatic Logging of Malicious Scripts
+autorun locations
 Autoruns
+autoruns
 autoruns
 autoruns
 Autoruns – Search locations
 Autoruns Output Analysis - Files not Found
+autorunsc.exe
 autorunsc.exe - Live System Only
 autorunsc.exe Detection - Malware Persistence Mechanisms
 AutoStart – Persistence
-Auto-start Extensibility Point (ASEP)
 Autostart Persistence Analysis
 baseline
+baseline
 Batch Files
-Batch Files
-blkcalc
+Behavioral Indicators
 blkcalc
 blkcat
 blkcat
 blkls
 blkls
 blkstat
-blkstat
 bodyfile
-bodyfile
-Bodyfile - Creation
 Bodyfile - Creation
 bootkey
+Breaking TrueCrypt
+Breaking Truecrypt
+Browser Search Terms
 bstrings.exe
 Building IR/Threat Hunting Capability
 Building Threat Hunting Capability
@@ -290,25 +306,30 @@ BulkExtractor
 By-Hand Memory Analysis
 By-Hand Third-Party Hash Lookups
 C$
+C2
 Cached Credentials
-Cached Credentials – Common Tools
 Cached Credentials - How are they acquired and used
-Cached Credentials – Mitigation
 Cached Credentials - Offline Extraction (Creddump)
+Cached Credentials – Common Tools
+Cached Credentials – Mitigation
 Cached Credentials – Storage Location
 cachedump.py
 Capability
 Capturing Command Lines and Scripts
+Certificate Revocation List
 Certification Authority
-Certification Authority – Intent
 Certification Authority - Verification Process
+Certification Authority – Intent
+Change journal
 Checkpoint Records
 Clear Text Passwords
 Clusters
 cmdline
 cmdscan
 cmdscan
+cmdscan
 Code Injection
+Code injection
 Code injection
 Code Injection – Detection
 Code Injection – Volatility
@@ -319,32 +340,40 @@ Code Signing - Malware - Negatives
 Code Signing - Operating Systems
 Code Signing - Percentage of Malware Signed
 Collector
-Collector
 Comae - hibr2bin
 Command Line - Analyzing Processes
 Command line (Event logs)
-Comprehensive Collector
+common malware locations
+common malware names
 Comprehensive Collector
 Compromise situations
 Compromised host
+Computed Indicators
 connections
+Connections
+connections
+connscan
 connscan (WinXP)
+consoles
 consoles
 consoles
 Containment
 Containment
 Containment and Intelligence Development
+context clues
 Context Triggered Piecewise Hashing (CTPH)
 Contiguous Clusters
+Contiguous disk space
+Cookies
 Copy Malware
 Copy Malware: Remote Desktop Services
 Copy Malware: Windows Admin Shares
+Create Bodyfile
 Credential Attack Mitigation - Windows 10
 Credential Attack Mitigation - Windows 7
 Credential Attack Mitigation - Windows 8
 Credential Availability
 Credential Dumping - Process Tracking
-Credential Guard
 Credential Guard
 Credentials – Compromising (attacker)
 Credentials – Goal of Attacker
@@ -352,37 +381,50 @@ Credentials Defending - Hashes
 Credentials Misuse (attacker) – Detection
 Credentials Misuse (attacker) – Mitigation
 CredSSP
+CredSSP
 Critical Remediation Control
+CRITS
 csrss
 CSRSS.EXE
+csrss.exe
 Custom
 Custom – Categories
 Custom Log  (Event Log)
+Cyber Threat Intelligence
+Cyber threat intelligence
 Cyber Threat Intelligence and Indicators
 Cyber Threat Intelligence Capability
 Cyber Threat Intelligence: Indicator Examination and Overview
 CybOX
+Cybox
 Dan and Broadstree Rating
 Data Collection
 Data Enryption
 Data Exfiltration
 Data Layer
+data layer
+Data Layer
 Data Layer - Basics
 Data Layer Tools
-Data Layer Tools
+data layer tools
+Data Reduction
 Data Reduction
 Data Storage Layer: Review
 Data Storage Organization
 DataSectionObject
 DataSectionObject
+deep dive analysis
 Deep-dive Analysis
 Deep-dive analysis
 Deep-dive forensics
 Default.rdp
+Deleted files
+Delivery
 density
 densityscout
 densityscout
 densityscout
+DensityScout
 DensityScout - Example Running
 densityscout - Files trying to Hide something
 deskthrd
@@ -390,23 +432,30 @@ Detection Avoidance – Malware
 devicetree
 Digital forensics
 Digital Signature Checking
+Direct Kernel Object Manipulation
 Direct Kernel Object Manipulation (DKOM)
 Directory Handle
 Directory Listings
 Directory Service  (Event Log)
 Directory Service  (Event Log)
 Disk Layer
+DKOM
 DLL doubly linked lists
 DLL Injection
+DLL Injection
+DLL Persistence
 DLL Persistence Attacks
+DLL Search Order
 DLL Search Order Hijacking
 DLL Side-Loading
+dlldump
 dlldump
 dlldump
 dlldump
 dllldump
 dlllist
 Dlllist
+dlllist
 DNS Server  (Event Log)
 Domaiin Account Hash
 Domain Account Hash
@@ -414,6 +463,8 @@ Domain Account Hash – Reqs for attacker to gain
 Domain Credential Auth
 Domain Protected Users Group
 Domain User Account Hash
+Downloads.sqlite
+Drive Letter
 DriveLetter$
 Driverbl
 driverirp
@@ -424,16 +475,22 @@ Dual-hop authentication
 dumpfiles
 dumpfiles
 dumpfiles
+dumpfiles
 dumpregistry
 Dynamically Linked Library (DLL)
+Enter-PSSession
+Enter-PSSession
+Enterprise Incident Response
 Enterprise Scanning
-Enter-PSSession
-Enter-PSSession
+enterprise scanning
 entropy
 Entropy/ Packing Analysis Example
 EPROCESS
 EPROCESS
+EPROCESS
 EPROCESS - Executive Process Blocks
+Eprocess blocks
+EPROCESS Blocks
 Eradication/Remediation Problem
 Eradication/Remediation Problem
 Establish Foothold
@@ -444,8 +501,8 @@ Event ID Codes (Kerberos)
 Event ID Codes (NTLM)
 Event Log - Analysis Scenarios
 Event Log - Brute- Force Password Attack
-Event Log - Logon Session
 Event Log - Logon ID
+Event Log - Logon Session
 Event Log - Security Event Categories
 Event Log - Security Log
 Event Log - Security Log
@@ -460,25 +517,27 @@ Event Log Clearing
 Event Log Deletion Tempering
 Event Log Explorer
 Event Log Explorer
+Event Log Explorer
 Event Log Resources
 Event Log Summary (chart)
 Event Logging
 Event Logging Service
 Event Logon Types
 Event Logs
+Event logs
 Event Logs - .evt
 Event Logs - .evtx
-Event Logs – Analysis Resources
 Event Logs - Exporting live System
 Event Logs - Exporting Offline 
-Event Logs – Extract/Export
-Event Logs – Location
 Event Logs - Log Evidence 
 Event Logs - Network Shares
-Event Logs – Remote Log Access
 Event Logs - Runas Detection (event logs - Lateral Movement)
 Event Logs - Scheduled Tasks logs
 Event Logs - Security Log (See Security Log)
+Event Logs – Analysis Resources
+Event Logs – Extract/Export
+Event Logs – Location
+Event Logs – Remote Log Access
 Event Logs – Size limit
 Event Logs – Types
 Event Logs – Types – System
@@ -486,8 +545,8 @@ Event Logs (Vista/win7&8,2008,2012, win10, 2016)
 Event Logs Location (NT/win 2000, XP, Server 2003)
 Event Types
 Event Viewer
-Event Viewer – Export
 Event Viewer - Remote Access
+Event Viewer – Export
 EventID
 eventvwr.exe
 eventvwr.exe
@@ -514,15 +573,28 @@ Exercise 2.3 - Code Injections and Rootkits
 Exercise 2.4 - Memory Extraction
 Exercise 2.4 - Memory Extraction
 Exercise 3.1 - Advanced Evidence of Execution and VSS
+ExFat
+Exfiltration
 Exfiltration
 Exploit - Multi-Phase
 Exploit - Single Phase
 EXPLORER.EXE
+F-Response
+F-Response
+F-Response
+F-Response - Licensing
+F-Response - Steps
+F-Response Accelerator
+F-Response License Manager
+Fast Forensics
 Fast Forensics
 Fast Forensics
 FAT
+FAT
+FAT32
 ffind
 ffind
+File Carving
 File Delete/Wiping - Antiforensics
 File deletion (NTFS)
 File Entry Header - $LogFile Sequence Number
@@ -535,9 +607,11 @@ File Entry Header - Inode Number
 File Entry Header - Sequence Number
 File Fragment
 File Handle
+File Knowledge
+File Opening/Creation
 FILE Record
-File Record – Directory
 File Record - Files
+File Record – Directory
 File Replication Service  (Event Log)
 File System Focused Timeline
 File System Focused Timeline
@@ -558,7 +632,9 @@ File Written to Disk- How
 File_Object
 Filename Layer
 Filename Layer
+Filename layer
 Filename Layer Tools
+filescan
 filescan
 filescan
 filescan
@@ -566,9 +642,13 @@ filescan
 Filesystem - Types
 Filesystem and Memory Timeline Creation and Analysis - fls and timeliner
 Filesystem Tools
+Filter file
 filter_windows.txt
 Filtering the Super Timeline
+find evil
+Firefox Downloads
 Fixup Array
+fls
 fls
 fls
 fls
@@ -578,41 +658,50 @@ fls
 fls - File System Focused (timeline tool)
 fls -m
 Follow Up
+FOR 408
+foremost
 foremost
 Forensic Analysis
 Forwarded Events
 Forwarded Events (Event Log)
-F-Response
-F-Response
-F-Response - Licensing
-F-Response - Steps
-F-Response Accelerator
+fsstat
 fsstat
 fstat
+FTK Imager
 FTK Imager Lite
 Full Path - Analyziing Processes
 Fuzzy Hashing
+fuzzy hashing
 Gain Authority
 Gain Authority
 Gain Authority
+Gathering intel through kill chain completion
 Get- WinEvent and Powershell
 Get-RekalPslist.ps1
-getsids
-getsids
 Get-SvcFail.ps1
+getsids
+getsids
+getsids
 Golden Ticket
 Golden Ticket
 Golden Ticket – Creation
 gpedit.msc
 grep
+grep
+grep Usage
 grep Usage
 GRR
 Handle
 handles
+handles
+Handles
 handles (Volatility Plugin)
 Hash Databases
+hash databases
 Hash Dumping (Gsecdump)
 hashdump
+hashdump
+Hashdump
 hashdump
 Hashes
 Hashes – Common Tools
@@ -621,13 +710,19 @@ Hashes – Local and Domain Storage Location
 Hashes – Mitigation
 hfind
 hiber2bin
+hiberfil.sys
+Hiberfil.sys
 Hibernation File Analysis
+Hibernation File Conversion
+hibr2bin
 Hiding (NOT in plain sight) – Malware
 Hiding Data in the Registry
+Hiding in plain sight
 Hiding techniques
 Hierarchical Process View
 hivedump
 hivedump
+hivelist
 hivelist
 hivelist
 hollowfind
@@ -642,16 +737,22 @@ icat
 icat
 Identification
 Identify Rogue Processes: Review
+Identifying Rogue Processes
 idt
+IDT
 IDT-  Interrupt Descriptor Table
 IDT-  Interrupt Descriptor Table
+IEF
 IEF
 IEXPLORE.EXE
 ifind
 ifind
+ifind
 Image Name - Analyzing Processes
+imagecopy
 imagecopy - Hibernation File Conversion
 imagecopy - Hibernation File Conversion
+imageinfo
 imageinfo
 imageinfo
 imageinfo - Image Identification
@@ -666,6 +767,7 @@ ImageSectionObject
 ImageSectionOject
 Immediate Response 
 Impact
+Impact
 Import Address Table (IAT)
 Incident Response
 Incident Response
@@ -675,10 +777,13 @@ Incident Response Lifecycle
 Incident Response Process
 Incident Response: Scope
 Index Entry
+Index.dat
 Indicator of Compromise
 Indicator of Compromise (IOC)
 Indicator of Compromise (IOC) – Redline
+Indicators
 Indicators - Types
+Indicators of Compromise
 Indicators of Compromise - Creation
 Indicators of Compromise Search
 INDXParse.py
@@ -702,8 +807,11 @@ Intrusions - Statistics
 Invoke-Command
 Invoke-Command
 IOC
+IOC
+IOC Analysis
 IOC Bucket
 IOC Development
+IOC Editor
 IOC Editor
 IOC Search Collector
 IOCe
@@ -711,6 +819,9 @@ IPC$
 IPC$
 IR Hunting and Anti-Forensics Detection Agenda
 IR Hunting and Anti-Forensics Detection Agenda
+IR Process
+IRP
+istat
 istat
 istat
 istat
@@ -719,8 +830,12 @@ istat: $FILE_NAME Atrributes
 istat: $STANDARD_INFORMATION Attributes
 jobparser.pl
 jobparser.py
+jobparser.py
+journal
 Journal Layer Tools
 Journal Parer jp
+jp
+Kansa
 Kansa - PowerShell IR Framwork
 Kansa - Running Kansa
 Kansa + Third-Party Tools
@@ -732,11 +847,14 @@ Kansa.ps1 – Modules.conf
 Kansa.ps1 – Output
 Kansa.ps1 – Prerequisites
 Kansa.ps1 – Target List
+KDBG
 Kerberoasting
-Kerberos – Account Logon Error Codes
 Kerberos - Attacks
+Kerberos – Account Logon Error Codes
 Kerberos – How it works
 Kerberos Attack Mitigations
+Kill Chain
+Kill chain
 Kill Chain
 Kill Chain -  Actions on Objective
 Kill Chain -  Command and Control
@@ -760,19 +878,28 @@ Kill Chain -C2 - Maintain Presence
 Kill Chain -Computed Indicators
 Kill Chain -Indicators
 Kill Chain -Recon
+knowing key windows processes
+KPCR
+Last Login
 Lateral Movement
 Lateral Movement
 Lateral Movement
 Lateral Movement
+lateral movement
 Lateral Movement - Scheduled Tasks logs
 Lateral Movement Adversary Tactics
 Lateral Movement: Network Shares
 Lateral Movement: Runas Detection (event logs - Lateral Movement)
+ldrmodules
+Least Frequency of Occurrence
 Legitamate Credentials
 Legitamate Credentials - Detection
+LFO
 LIBPFF
 Lifeless Malware
+Live Memory Forensics
 Live System Incident Response
+LNK files
 LNK files
 LNK files
 Local Account Password Hash
@@ -781,8 +908,10 @@ Local Service Account
 Log Evidence Location (Event Logs)
 Log Evidence Location (Event Logs)
 log2timeline
+log2timeline
 log2timeline - python based goals
 log2timeline - Super Timeline 
+log2timeline.py
 log2timeline.py
 log2timeline.py
 log2timeline.py
@@ -807,14 +936,17 @@ LogFileParser
 Logon Events
 Logon Events  (Event Log)
 Logon ID
+Logon Type
 Logon Type Codes
 Logon types
+Logon Types
 Logs
 LSA Secrets
 LSA Secrets –  How are they aquired and used? (Stealing)
 LSA Secrets – Common Tools
 LSA Secrets – Mitigation
 LSASS.EXE
+lsass.exe
 lsevt
 LSM.EXE
 MACB
@@ -825,41 +957,66 @@ mactime
 Mactime
 mactime
 Mactime
+mactime
+malfind
 Malicious Scripts - Automatic Logging
+malsysproc
 Malware - API Manipulation 
 Malware - Common Locations 
 Malware - Common Names 
 Malware - Detection Situations
 Malware - Evasion Techniques
 Malware - Tools to Scan for Malware 
+Malware analysis
+Malware analysis process
+Malware detection
+Malware evasion techniques
 Malware Execution (Event Logs)
 Malware Execution and Process Tracking
 Malware ID - Anomalistic Behavior Detection
 Malware Identification Through Anaomalies
+Malware paradox
 Malware Persistence
 Malware Persistence
+Malware persistence
 Malware Persistence Mechanisms 
 Malware-ology
 Master File Table
 Master File Table
+Master File Table
+MBR
+md5deep
 md5deep
 md5deep - With sorter
 Media Management Layer Tools
+memdump
 Memory – Timeline analysis
 Memory – Timeline analysis
+Memory acquisition Tools
+Memory analysis tools
+Memory Sections
 Memory Timelining 
 Metadata Lay Review (Card Catalog)
 Metadata Layer
 Metadata Layer
+metadata layer
 Metadata Layer Tools
 MFT - File Entry Header - Start
 MFT – Record Numbers
+MFT Analysis
 MFT Anomalies
 MFT Entries (Sequential)
+MFT FILE Record Header
 MFT Outlier Analysis
+MFT Outlier analysis
 MFT Zone
 Microsoft Windows-TerminalServices-LocalSessionManager
+Mimikatz
+mimikatz
 mmls
+mmls
+moddump
+modscan
 mount - loop
 mount - noexec
 mount - ro
@@ -870,10 +1027,12 @@ mount show_sys_files
 mount streams_interface=windows
 Mounting Evidence Using SIFT
 mountwin
+MRI
 mscash2 hashes
 Namespace Type
 National Software Reference Library
 net use
+Network Artifacts
 Network Logon
 Network Service
 Network Service Account
@@ -882,22 +1041,31 @@ Network Shares
 New Service Creation
 Nishang- LSA Secrets - Decrypting - 
 Non-Layer Tools
+Non-Resident
+NSRL
 NTDS.DIT
 NTDS.DIT - Common Tools
 NTDS.DIT - how is it acquired and used
 NTDSXtract
 NTFS
+NTFS
 NTFS - Attributes
 NTFS - Attributes
 NTFS - Features
 NTFS - System Files
+NTFS Attributes
+NTFS Features
 NTFS LogFile Parser
+NTFS Overview
+NTFS Timestamps
 ntfs-linker
 NTLM – Account Logon Error Codes
+NTUSER.DAT
 Object Access
 Object Access  (Event Log)
 Object ID
 Offline – Extraction – Events
+OpenIOC
 OpenIOC
 Operating System Vulnerabilities
 Opportunity
@@ -911,11 +1079,18 @@ ox7 (Error Codes- Kerberos)
 oxC (Error Codes- Kerberos)
 Packing/Entropy Check
 Parition
+Parser Lists
+Parsing the Amcache.hve
+Parsing the RecentFileCache.bcf
 Pass the Hash (MimiKatz)
 Pass the Hash attack
 Pass the Ticket
 Pass the Ticket attack
+PEB
 PECmd
+persistence
+persistence mechanisms
+pescan
 pescan
 pescan
 pescan
@@ -927,19 +1102,26 @@ pescan - Hash
 pescan output
 pf
 pffexport
+pffexport
+Phantom DLL
 Phantom DLL Hijacking
 Physical Layer
 Piecewise Hashing
 pinfo
 pinfo
 pinfo
+pinfo
+pinfo.py
 pinfo.py
 pinfo.py
 Pivot Point
 Pivot Point
+pivot point
 Pivot Point Determination
 Pivot Point Determination
+pivotal phase
 Plaso
+plaso
 Plaso - Goals
 Plaso - Goals
 Plaso - Parsers
@@ -957,44 +1139,58 @@ Policy Change  (Event Log)
 PowerShell
 PowerShell
 PowerShell
+Powershell
 PowerShell – Basics
 Powershell (lateral movement)
+Powershell Basics
 PowerShell Basics - Authentication
 PowerShell Basics - Remoting 
 PowerShell Remoting
-PowerShell Remoting – Detection
+Powershell Remoting
 PowerShell Remoting - Process Tracking
+PowerShell Remoting – Detection
 Powershell Remoting/ WMIC
 Powershell Remoting/ WMIC – Detection
 PowerShell Script Block Logging  (Event logs)
 Prefetch
 Prefetch
 Prefetch
-Prefetch – Carving
+Prefetch
 Prefetch - Creation Date
+Prefetch - Hash Table 
+Prefetch - Metadata
+Prefetch – Carving
 Prefetch – File System Time Stamps
 Prefetch – Files
-Prefetch - Hash Table 
 Prefetch – Location (Directory)
 Prefetch – Location (Directory)
-Prefetch - Metadata
 Prefetch Example - Find Entry (exe) in Prefetch Directory
 Prefetch Files
 Prefetching
 prefetchparser
+prefetchparser
 Preparation
+Previous Versions
+printkey
+Printkey
 Privilege Use  (Event Log)
 Privilege User
 Privileged Local Account Abuse - Pass the Hash
 Privileged/Admin Activity
 Problems - Eradication / Remediation
+procdump
 Process – Timeline Analysis
+Process Hollowing
+Process Objects
 Process Tracking  (Event Log)
 Process Tracking (Event Logs)
+Program Execution
 ProgramDataUpdater
 Protected Process
 Protected Processes
 PsExec
+psexec
+PsExec - Suspicious Services
 PsExec – Credentials
 PsExec – Detection
 PsExec – Event Log Artifacts
@@ -1005,7 +1201,8 @@ PsExec – Problems
 PsExec – Process Steps
 PsExec – Registry Artifacts
 PsExec – Remote Command Execution
-PsExec - Suspicious Services
+psexec.exe
+pslist
 PsLogList
 PsLogList – Extraction – Events
 PsLoglist.exe
@@ -1013,23 +1210,34 @@ PsLoglist.exe
 psort
 psort
 psort
+psort
 psort.py
 psort.py
+psort.py
+psscan
+pstotal
+pstree
+psxview
 Pulling the plug/ power loss
 pwdump.py
 Quick Response
 RDP
 RDP
+RDP Usage
 RDPClip.exe
 rdpCore
 RdpCore log
 rdphint
 Reactive Organization
 Reality – Timeline Analys
+Recent Files
+RecentFileCache
+RecentFileCache.bcf
+RecentFileCache.bcf - Volume Shadow Copy
 RecentFileCache.bcf – Location
 RecentFileCache.bcf – Purpose
 RecentFileCache.bcf – Rules
-RecentFileCache.bcf - Volume Shadow Copy
+Reconnaissance
 Recovery
 Redline
 Redline - Supports
@@ -1037,6 +1245,9 @@ Redo Pass
 reg.exe
 Registry Key/Value Deletion/Wiping
 RegRipper
+regular expressions
+Rekall
+Remediation
 Remediation
 Remediation - Challenges
 Remediation - Critical Controls
@@ -1046,6 +1257,8 @@ Remediation Event - Goals
 Remediation Event - Plan - Posture
 Remediation Event - Plan (steps)
 Remote Access Agent
+Remote Access Agent
+Remote Analysis Agent
 Remote Analysis Agent
 Remote Commands - Create and Start a Remote Service
 Remote Commands - Exe any remote command
@@ -1057,18 +1270,28 @@ Remote Desktop Services (attacker) – Registry Key
 Remote Desktop Services- RDPCoreTS
 Remote Enterprise Incident Response & Forensics
 Remote Forensics
+Remote Forensics
 Remote Log Access
 Remote Management Tools
 Remote SIFT Access
+Remote System IR
 Reparse Point
+Resident
 Restart Area
 Restore Points
+restore points
 Restore Points – When Created
 rfc.pl
+rfc.pl
+rip.pl
 rip.pl
 Risk
 Rogue Process
+Rootkit
 Rootkit Behavior
+Rootkit Behavior
+Rootkit Hooking
+Rootkits
 Rootkits - What about Rootkits
 Run as Account switch
 Runas Detection (event logs - Lateral Movement)
@@ -1078,7 +1301,11 @@ sc.exe
 Scheduled Tasks – Malware Persistence
 Scheduled Tasks logs
 schtasks.exe
+schtasks.exe
 Script Block 
+searching for malicious processes
+Secondlook
+sector sizes
 Sectors
 Security
 Security – Detailed
@@ -1089,37 +1316,58 @@ Service Accounts
 Service Failure Recovery
 Service Replacement 
 Service Replacement 
+servicebl
+Services Events
 SERVICES.EXE
+Session Restore
 Setup
 Setup (Event Log)
 Shadow Copy
+Shadow Copy
 Shadow Copy Volumes
+ShellBags
 ShimCache
+Shimcache
 shimcachemem
 ShimCacheParser.py
+Shimcacheparser.py
 SIFT Workstation
 SIFT Workstation – Extraction – Events
 sigcheck
 sigcheck
+Sigcheck
+sigcheck.exe
 sigcheck.exe
 sigcheck.exe - Digital Signature Checking
 sigcheck.exe - Virus Total Hit
 Silver Ticket
 Six-Step Incident Response Process
+Six-step IR Process
 Skeleton Key
+Skype History
 Slack Space
 Sleeper Account
 Sleuth Kit
 SMSS.EXE
+sockets
+Sockets
+sockscan
+sorter
 sorter
 sorter - Data types
 sorter - hash database
 Sparse file
 SRL Intrusion Scenario 
 ssdeep
+ssdeep
+SSDT
 Standard Windows Time Rules
 Standard Windows Time Rules
 STIX
+STIX
+Stop pulling the plug
+Stuxnet
+Super Timeline
 Super Timeline
 Super Timeline - Color Template
 Super Timeline - Color Template
@@ -1138,20 +1386,27 @@ SuperTimeline: Lateral Movement - Example
 Suspicious Services
 Suspicious Services
 SVCHOST.EXE
+svcscan
+Sysinternals
 SYSTEM
 System
 System Events
 System Events  (Event Log)
 System Files
 System Log  (Event Log)
+System process
 System Restore
+system restore
 System Service Account
 Targeted Super Timeline Creation
+Targeted Timeline collection
 Task Scheduler log
+Task Scheduler Logs
 Task Scheduler v1.0
 Task Scheduler v1.2
 TASKHOST.EXE
 TaskScheduler
+TDL3/TDSS
 Team Composition - IR and Hunt Team Roles
 TeamViewer
 Technet
@@ -1159,8 +1414,13 @@ Temporal Proximity
 Temporal Proximity
 Temporal Proximity
 Termal Services - RemoteConnectionManager
+The Pivot Point
+The Sleuth Kit
+Threads
 Threat
 Threat Environment
+Threat Environment
+Threat Hunting
 Threat Hunting
 Threat Hunting
 Threat Hunting - From Automated to Manual
@@ -1170,10 +1430,12 @@ Threat Hunting - Right Mindset
 Ticket Granting Tickets (TGT)
 Tickets
 Tickets - Common Tools
-Tickets – Golden Ticket
 Tickets - How are they acquired and used
+Tickets – Golden Ticket
 Tickets – How to Steal
 Tickets – Mitigation
+Time Rule Exceptions
+Time Rules
 Time Rules
 Time Rules - Exceptions
 Time Rules - Exceptions
@@ -1197,19 +1459,27 @@ Timeline Analysis Overview
 Timeline Benefits
 Timeline Benefits
 Timeline Context Clues
+Timeline Creation
 Timeline Creation - Step One
 Timeline Creation - Step One
+Timeline Data Filtering
+Timeline evidence
 Timeline Reality
 timeliner
+Timeliner
+Timestamp Analysis
 Timestamp Analysis Practice
+Timestamp Anomalies
 Timestamp Anomalies
 Timestamp Anomalies
 Timestamp Anomalies - analyzeMFT.py
 Timestamps - Lateral Movement Analysis
 Timestamps - NTFS
 Timestamps - NTFS
+timestomp
 Timestomp Detection
 Timestomping - Antiforensics
+Timezone
 Timline - Triage Timeline Bodyfile - Data Types to Collect
 Timline Analysis - NOT simple Artifact Recovery
 Timline Capabilities
@@ -1218,15 +1488,16 @@ Timliner - Memory Timelining Output
 Timliner - What is Timeliner
 Timliner Review - Summary
 Tokens
+Tokens -Delegate Token
 Tokens – Common Tools
 Tokens – How are they Acquired and used. 
 Tokens – Mitigation
 Tokens – Mitigation
 Tokens – Stealing
-Tokens -Delegate Token
 Tracking Lateral Movement
 Traige Timeline: Bodyfile Step 1: fls -m
 Transaction Logging – System Crash
+Triage
 Triage Extraction
 Triage Extraction
 Triage File System Timeline Overview
@@ -1234,15 +1505,30 @@ Triage Filesystem Timelining
 Triage Timeline Step 2: Mactime
 Trused Code Signing - how does it work
 Trused Code Signing - Verification Process
+Trusted Code Signing
+TSK
 Ultimate Windows Security
+Unallocated
 Unallocated Clusters
+Understanding Security Identifiers
 Undo Pass
 Unkown Services
 Unusual OS Artifacts
 Update Records
+USB or Drive usage
+UserAssist
 USN-Journal-Parser usn.py
+VAD tree
+Virtual Machine Memory Acquisition
+Vista/Win7 Thumbnails
 VNC
+volafox
+Volatility Plugins
+Volatility profiles
 Volume Boot Record
+Volume Boot Record
+Volume Name
+Volume Serial Number
 Volume Shadow Copy
 Volume Shadow Copy – Analysis Options
 Volume Shadow Copy – How it works
@@ -1252,21 +1538,33 @@ Volume Shadow Copy – When Created
 Volume Snapshot Service
 Volume Snapshot Service (Shadow Copy)
 vshadowinfo
+vshadowinfo
+vshadowmount
 vshadowmount
 Vshadowmount – Steps
+VSS mounting
 vssadmin list shadows
+Vulnerability
 Vulnerability
 Vulnerability Exploitation
 Vulnerability Exploitation – Detection
 Vulnerability Exploitation – Types
+Weaponization
+Web History
 Whack a mole
+What is memory forensics?
+Win7 Jump Lists
+Win7 Recycle Bin
+Win7 Search
 Windows Audit Collection Service
 Windows Credential Editor (WCE)
 Windows Management Instrumentation
+Windows Memory Acquisition
 Windows Processes
 Windows Remote Management Tools - Detection
 Windows Services – Malware Persistence
 Windows Side-by-side – DLL Loading
+Windows Time Rules
 Windows Time Rules
 Windows Time Rules for $FILE_NAME
 Windows Time Rules for $STANDARD_INFORMATION
@@ -1275,6 +1573,7 @@ Windows-TerminalServices-LocalSessionManager log
 WININIT.EXE
 WINLOGON.EXE
 winrs.exe
+wisp
 wisp
 Wisp Windows: INDX Slack Parser
 WMI
@@ -1285,8 +1584,15 @@ WMI Event Consumers - Steps
 WMI Event Consumers - Triggers
 WMI Script - wmic_ir_remote.cmd
 WMIC
+WMIC
 WMIC (lateral movement)
+WMIEvtConsumer
 wsmprovhost.exe
+XP Recycle Bin
+XP restore points
+XP Search
+Yara
 YARA-Project
+Zeus
 Zone Identifier
-
+Zone.identifier
