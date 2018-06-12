@@ -1,153 +1,333 @@
+access token
+Account Creation
+Account Logon
+Account Logon Events
+Account Management
 Account Usage
 Acquiring Processes
+Acquiring Processes and Drivers – Volatility
 Acquiring Remote Data
+Additional Time Rule Exceptions
+Admin$
+Admin Shares
+Admin Shares – Detection
+Admin Shares – Permissions required
 ADS
-Advantages of memory analysis
+Advanced NTFS Journal Parser (ANJP)
 Advanced Persistent Threat
+Advantages of memory analysis
+Adversary Operation Process
+Allocated Clusters
 Alternate Data Streams
-amcache.hve
-Amcache.hve
+AmCache.hve
+AmCache.hve – Contents
+AmCache.hve – Location
+AmCache.hve – Value Name Chart
+Amcache.py
+Analysis Pass
 analyzeMFT.py
+Analyzing Processes – Identifiers of Evil
 Analyzing Process Objects 
+Analyzing Process Objects – Volatility
 ANJP
+Anonymous Logon
+Antivirus Checks
 apihooks
+API Manipulation – Malware
 Appcompat cache
-AppCompat Cache
+Application
+Application and Services
+Application Compatibility Cache
+Application Compatibility Cache – Contents
+Application Compatibility Cache – Registry
+Application Deployment Software
+Application Deployment Software – Detection
+Application Experience
+Application Installation
 Application of techniques
+Application Vulnerabilities
 Artifact - Browser usage
+Artifacts - Chart
 ASEP
+AsJob
+at.exe
 at job
+Atomic
 attack progression
 $ATTRDEF
 $ATTRIBUTE_LIST
+Authentication – PowerShell
+Automated Memory Analysis
 autorun locations
 autorunner
 autorun offline examination
-autoruns
+Autoruns
 autorunsc.exe
+Autoruns – Search locations
+Auto-start Extensibility Point (ASEP)
+AutoStart – Persistence
 AV Scanners
 $BADCLUS
 baseline
+Batch Files
+Behavioral
 Behavioral Indicators
 BEViewer
 Binary Whitelisting
 $BITMAP
+blkcalc
 blkcat
 blkls
+blkstat
+bodyfile
+Bodyfile - Creation
 $BOOT
-Breaking Truecrypt
+bootkey
 Breaking TrueCrypt
 Browser Search Terms
+Building IR/Threat Hunting Capability
+Building Threat Hunting Capability
 Build portable agent
+Built-In Service Accounts
 bulk_extractor
 bulk_extractor usage
+By-Hand Memory Analysis
+By-Hand Third-Party Hash Lookups
 C2
 Cache
+Cached
+Cached – Common Tools
+Cached – Mitigation
+Cached – Storage Location
 cafae.exe
 calculating partition byte offset
+Capability
 Certificate Revocation List
+Certification Authority
+Certification Authority – Intent
+Certification Authority - Verification Process
 Change journal
 Change.log
+Checkpoint Records
+cmdline
 cmdscan
 Code injection
 Code Injection behavior
+Code Injection – Detection
+Code Injection – Volatility
+Code Signing
+Code Signing - Malware
+Code Signing - Malware - Benefits
+Code Signing - Malware - Negatives
+Code Signing - Operating Systems
+Collector
+Command line
+Common Locations – Malware
 common malware locations
 common malware names
+Common Names – Malware
+Comprehensive Collector
 Compromise detection
+Compromised host
+Compromise situations
+Computed
 Computed Indicators
-connections
 Connections
 connscan
 consoles
+Containment
+Containment and Intelligence Development
 context clues
+Context Triggered Piecewise Hashing (CTPH)
+Contiguous Clusters
 Contiguous disk space
 Cookies
+Copy Malware
 Create Bodyfile
 creating signatures
+Credential Guard
+Credentials – Compromising (attacker)
+Credentials – Goal of Attacker
+Credentials Misuse (attacker) – Detection
+Credentials Misuse (attacker) – Mitigation
 CredSSP
+Critical Remediation Control
 CRITS
+csrss
 csrss.exe
+Custom
+Custom – Categories
 Cyber threat intelligence
-Cyber Threat Intelligence
+Cyber Threat Intelligence Capability
 Cybox
 $DATA
+Data Collection
+Data Exfiltration
+$Data Header
 data layer
-Data Layer
+Data Layer - Basics
 data layer tools
+$Data – Nonresident
 Data Reduction
+$Data – Resident
+DataSectionObject
 dd
 dd.exe
 deep dive analysis
+Deep-dive analysis
+Deep-dive forensics
+Default.rdp
+Delegate Token
 Deleted files
 Delivery
-DensityScout
+density
+densityscout
+deskthrd
 detect compromise without malware
 detecting rogue processes
+Detection Avoidance – Malware
+Detection Situations – Malware
 determining indicators
 Determining Pivot Point
+\Device\PhysicalMemory
+devicetree
+Digital forensics
 Direct Kernel Object Manipulation
+Direct Kernel Object Manipulation (DKOM)
+Directory Handle
+Directory Service
+Disk Layer
 diskpart.exe
 DKOM
+DLL doubly linked lists
 dlldump
 DLL Injection
 dlllist
 DLL Persistence
+DLL Persistence Attacks
 DLLs
 DLL Search Order
+DLL Search Order Hijacking
 DLL Side Loading
+DLL Side-Loading
+Domain Account Hash
+Domain Account Hash – Reqs for attacker to gain
 Downloads.sqlite
 Drive Letter
+DriveLetter$
 Driver, Acquiring
+Driverbl
+driverirp
+drivers
+Dual-hop authentication
 dumpfiles
 dumping files
 Dumpit
 Dun & Bradstreet
+Dynamically Linked Library (DLL)
+$EA
 $EA_INFORMATION
 early detection
 Email attachments
 Enterprise Incident Response
 Enterprise IR Scripting
 enterprise scanning
+Enter-PSSession
+entropy
 Entropy / Packing
 EPROCESS
 Eprocess blocks
-EPROCESS Blocks
+Establish Foothold
+Evasion Techniques Malware
+Event Handle
+EventID
+Event Log Clearing
 Event Log Explorer
 Event logs
+Event Logs – Analysis Resources
+Event Logs - .evt
+Event Logs - .evtx
+Event Logs – Extract/Export
+Event Logs – Location
+Event Logs – Remote Log Access
+Event Logs – Size limit
+Event Logs – Types
+Event Logs – Types – System
+Event Viewer
+Event Viewer – Export
+eventvwr.exe
+Evidence of Persistence
+evtwalk
+evtx
+evtx_parser
+evtx_view
 ewfmount
+Execute Malware/Commands
 ExFat
 Exfiltration
+Exploitation
+Exploit - Multi-Phase
+Exploit - Single Phase
 $EXTEND
 Extracting Files dumpfiles 
 Extracting Files filescan
 Fast Forensics
 FAT
 FAT32
+ffind
 File Carving
 File Deletion Artifacts
 file density
 File Downloads
+File Entry Header - Attibute Count
+File Entry Header - File Reference to Base Record
+File Entry Header - Fixup
+File Entry Header - Flags
+File Entry Header - Hard Link
+File Entry Header - Inode Number
+File Entry Header - $LogFile Sequence Number
+File Entry Header - Sequence Number
+File Fragment
+File Handle
 File Headers/Footers
 File Knowledge
 $Filename
 $FILE_NAME
+$File_Name Header
 Filename layer
+Filename Layer Tools
+File_Object
 File Opening/Creation
+File Record – Directory
+File Record - Files
+filesan
 filescan
 File System Abstraction
+File System Focused Timeline
+File System Layer
+File System Timeline
+File System Timeline - Output
+Filesystem Tools
+Filesystem - Types
+File Time Anomalies
 Filter file
 find evil
 find rogue local account
 Firefox Downloads
 First/Last Times
+Fixup Array
 Flash and Super Cookies
 fls
 fls vs. Supertimeline
+Follow Up
 FOR 408
 foremost
 foremost.conf
+Forensic Analysis
 Forensics Process
+Forwarded Events
 F-Response
+F-Response Accelerator
 F-Response Attach remote drive
 F-Response Attach remote memory
 F-Response connect to targets
@@ -155,66 +335,143 @@ F-Response Deploy Agents
 F-Response Deployment overview
 F-Response Introduction
 F-Response License Manager
+F-Response - Licensing
 F-Response Management Console
+F-Response - Steps
 fsstat
+fstat
 FTK Imager
+FTK Imager Lite
 fuzzy hashing
+Gain Authority
 Gathering intel through kill chain completion
+Get-RekalPslist.ps1
 getsids
+Get-SvcFail.ps1
+Golden Ticket
+Golden Ticket – Creation
+gpedit.msc
 grep
 grep Usage
+GRR
+Handle
 handles
-Handles
+handles (Volatility Plugin)
 hash databases
 hashdump
-Hashdump
+Hashes
+Hashes – Common Tools
+Hashes – How to Acquire
+Hashes – Local and Domain Storage Location
+Hashes – Mitigation
 Hash Lookups
 HBGary responder
+hfind
+hiber2bin
 hiberfil.sys
-Hiberfil.sys
+Hibernation File Analysis
 Hibernation File Conversion
 hibr2bin
 Hiding in plain sight
+Hiding (NOT in plain sight) – Malware
+Hiding techniques
+Hierarchical Process View
 Hierarchical view
 histogram
+hivedump
 hivelist
+Hooking
+Hooking – Types
 Host based IOC
+Hunting Organization
 $I30
+$I30 – Index Block
+$I30 – Slack space
 IAT
 icat
+Identification
 identifying outliers in memory
 Identifying Rogue Processes
-IDT
+Identify Rogue Processes – Volatility
+idt
 IEF
 ifind
 imagecopy
 imageinfo
 imagemounter.py
+ImageSectionObject
+Immediate Response 
 Impact
+Import Address Table (IAT)
 importance of malware analysis
+Incident Response
+Incident Response Detection and Intelligence Loop
+Incident Response Lifecycle
+Incident Response Process
 $INDEX_ALLOCATION
 Index.dat
+Index Entry
 $INDEX_ROOT
+Indicator of Compromise
+Indicator of Compromise (IOC)
+Indicator of Compromise (IOC) – Redline
 Indicators
 Indicators of Compromise
+Indicators of Compromise - Creation
+Indicators of Compromise Search
+Indicators - Types
+INDXParse.py
+Infinite Log Area
+Initial Compromise
 Injection - Detection
 Injection - Stuxnet
 Injection - Zeus
+inline (trampoline) hooks
+Inodes
+Intelligence
+Intelligence Development
+Intent
+Interactive Logon
+Interface Panes – Redline
+Interrupt Descriptor Table (IDT)
+Intrusion Operation - Phases
+Intrusions - Statistics
+Invoke-Command
 IOC
 IOC Analysis
+IOC Bucket
+IOC Development
+IOCe
 IOC Editor
 IOC Finder
+IOC Search Collector
+I/O Request Packets (IRP)
+IPC$
 IR & Hunt Team Life Cycle Overview
 IRP
 IR Process
 istat
+$J
+jobparser.pl
 jobparser.py
 journal
+Journal Layer Tools
 jp
 Kansa
+Kansa.ps1
+Kansa.ps1 – Get-RekalPslist.ps1
+Kansa.ps1 – Get-RekalPslist.ps1 – Negatives
+Kansa.ps1 – Modules
+Kansa.ps1 – Output
+Kansa.ps1 – Prerequisites
+Kansa.ps1 – Target List
 KDBG
+Kerberos – Account Logon Error Codes
+Kerberos – How it works
+Kernel Debugger Datablock (KDBG)
+Kernel Path Protection (PatchGuard)
+Kernel Processor Control Region (KPCR)
 Kill chain
-Kill Chain
 knowing key windows processes
 KPCR
 Last Login
@@ -223,32 +480,65 @@ lateral movement
 ldrmodules
 Least Frequency of Occurrence
 LFO
+LIBPFF
+Live Memory Analysis – Whitelisting
 Live Memory Forensics
 Live Response Kit
 Live System Acquisition
 LNK files
+Local Service
+Locating Log Evidence
 log2timeline
 log2timeline.py
 log2timeline.py examples
+log2timeline.py - File Filter
+log2timeline.py - Goals
+log2timeline.py - Parser List
 log2timeline.py reference
 $LOGFILE
 $LOGGED_UTILITY_STREAM
+Logon Events
+Logon ID
 Logon Type
-Logon Types
+Logon Type Codes
+Logon types
+Logs
 Long v. Short File Names
+lsadump
+LSA Secrets
+LSA Secrets – Common Tools
+LSA Secrets – Mitigation
+LSA Secrets – Stealing
 lsass.exe
+lsevt
+MACB
+MACB Chart
 mactime
+Maintain Presence
 malfind
+malprocfind
 malsysproc
 Malware analysis
 Malware analysis process
+Malware Analysis Process – Step 1
+Malware Analysis Process – Step 2
+Malware Analysis Process – Step 3
+Malware Analysis Process – Step 4
+Malware Analysis Process – Step 5
+Malware Analysis Process – Step 6
+Malware Analysis Process – Steps
 Malware detection
+Malware Detection Methods
+Malware detection stages
 Malware evasion techniques
+Malware Execution
 Malware - finding
 Malware funneling
 Malware Funnelling - IOC
 Malware paradox
 Malware persistence
+Malware Risk Index – Components
+Malware Risk Index (MRI)
 Malware Scheduled Tasks
 Malware - signed?
 Malware signing cons
@@ -256,207 +546,444 @@ Malware signing graph
 malware signing likelihood
 Malware signing pros
 Malware Windows Services
+Management Support
 Master File Table
+$Max
 MBR
 md5deep
+md5deep - With sorter
+Media Forensics VS Memory Analysis
+Media Management Layer Tools
 memdump
+Memory Acquisition
 Memory acquisition Tools
 Memory acquisition VM
+Memory Acquisition – VM’s
 Memory acquisition Windows
+Memory Analysis
+Memory Analysis – Advantages
+Memory Analysis – Stages
+Memory Analysis – Suites
 Memory analysis tools
+Memory Analysis VS Media Forensics
 Memory Analysis Windows
+memory.dmp
+Memory Forensics
+Memory Section (or Pages)
 Memory Sections
+Memory – Timeline analysis
 metadata layer
+Metadata Layer Tools
 $MFT
 MFT Analysis
+MFT Anomalies
+MFT - File Entry Header - Start
 MFT FILE Record Header
 $MFTMIRR
 MFT Outlier analysis
+MFT – Record Numbers
+MFT Zone
 mimikatz
-Mimikatz
 mklink
 mmls
 moddump
 modscan
 modules
 MRI
+Mutant Handle
+mutantscan
+Mutex
+Namespace Type
+National Software Reference Library
 Netcat
-Network Artifacts
+netscan
+Network artifacts
+Network Artifacts – Volatility
 Network Based IOC
+Network Logon
+Network Service
+Network Shares
+Non-Layer Tools
 Non-Resident
 NSRL
+NTDS.DIT
+NTDSXtract
 NTFS
 NTFS Attributes
+NTFS - Attributes
 NTFS Features
+NTFS - Features
+NTFS – How a file is written to disk?
 NTFS Overview
 NTFS Timestamps
+NTFS – What data still exists upon file deletion?
+NTLM – Account Logon Error Codes
 NTUSER.DAT
+Object Access
 $OBJECT_ID
+Object ID
 $ObjId
 obtaining hashes
+Offline – Extraction – Events
 OpenIOC
+openioc_scan
+Operating System Vulnerabilities
+Operational Tempo
+Opportunity
+Packing/Entropy Check
+Page Directory Base offset (PDB)
+Page_Execute_ReadWrite
+pagefile.sys
 Parser Lists
 Parsing the Amcache.hve
 Parsing the RecentFileCache.bcf
 Partitioning
+Pass the Hash attack
+Pass the Ticket attack
 PEB
 pe_carve.py
 persistence
 persistence mechanisms
 pescan
+pescan - Adnormality Detection
+pescan - Hash
 pescan usage
+pf
 pffexport
 .pf signature
 Phantom DLL
+Phantom DLL Hijacking
+Physical Layer
+Physical Memory Offset
+Piecewise Hashing
 pinfo
 pinfo.py
 pivotal phase
 pivot point
+Pivot Point Determination
 plasm
 plaso
+Plaso - Goals
+Plaso - Parsers
+Policy Change
 Ports
+powercfg.exe
 Powershell
 Powershell Authentication
 Powershell Basics
+PowerShell – Basics
 Powershell Remoting
+PowerShell Remoting – Detection
+PowerShell Script Block Logging
 P&P Event Log
 Prefetch
+Prefetch – Carving
+Prefetch – Directory
+Prefetch – Files
+Prefetch – File System Time Stamps
 prefetchparser
+Preparation
 Previous Versions
 printkey
-Printkey
+Privileged/Admin Activity
+Privilege User
+Problems
 procdump
+Process
+Processbl
+Process Environment Block (PEB)
 Process Hollowing
 Process Objects
+Process – Timeline Analysis
+Process Tracking
+Profiles – Volatility
+ProgramDataUpdater
 Program Execution
+Protected Process
 protecting hashes
 psexec
+PsExec – ??
+PsExec – Credentials
+PsExec – Detection
+PsExec – Event Log Artifacts
 psexec.exe
+PsExec – File System Artifacts
+PsExec – Memory Artifacts
+PsExec – Process Steps
 psexec - protecting credentials
+PsExec – Registry Artifacts
+PsExec – Remote Command Execution
 pslist
+PsLogList
+PsLoglist.exe
+PsLogList – Extraction – Events
 psort
 psort.py
+pspcid
 psscan
 pstotal
 pstree
 psxview
+Quick Response
 $Quota
+RDP
+RDPClip.exe
+RdpCore log
+rdphint
 RDP Usage
+Reactive Organization
+Reality – Timeline Analys
 RecentFileCache
 RecentFileCache.bcf
+RecentFileCache.bfc – Location
+RecentFileCache.bfc – Purpose
+RecentFileCache.bfc – Rules
 Recent Files
+Recon
 Reconnaissance
+Recovery
 Redline
+Redline – Analyze Data
+Redline – Collect Data
 Redline IOC Analysis
+Redline - Supports
+Redo Pass
 ReFS
+reg.exe
+Registry and Password Analysis – Volatility
+Registry Artifacts in Memory
 Registry Extraction
+Registry Handle
+RegRipper
 regular expressions
 Rekall
 Remediation
+Remediation - Challenges
+Remediation - Critical Controls
+Remediation Event
+Remediation Event - Goals
+Remediation Event - Plan
+Remediation Event - Plan - Posture
+Remediation - Incorrect lifecycle
 Remote Access Agent
 Remote Analysis Agent
+Remote Desktop Services (attacker) – Detection
+Remote Desktop Services (attacker) – Registry Key
+Remote Enterprise Incident Response & Forensics
 Remote Forensics
+Remote Log Access
+Remote Management Tools
 Remote System IR
+Remoting – PowerShell
 $Reparse
 $REPARSE_POINT
+Reparse Point
 Resident
+Restart Area
 restore points
+Restore Points – When Created
 rfc.pl
+Right Mindset
 rip.pl
+Risk
 Rootkit
 Rootkit Behavior
+Rootkit Detection Plugins – Volatility
 Rootkit Hooking
+Rootkit Hooking – Types
 Rootkits
+sc
+sc.exe
+Scheduled Tasks logs
+Scheduled Tasks – Malware Persistence
 schtasks.exe
+Scope
 searching for malicious processes
 Secondlook
+Section_Object_Pointer
 sector sizes
 $SECURE
+Security
+Security – Categories
 $SECURITY_DESCRIPTOR
+Security – Detailed
+Security Identifier (SID)
+Semaphore
+Service Accounts
 servicebl
+Service Replacement – Malware
 Services Events
+session
 Session Restore
+Setup
 Shadow Copy
+Shadow Copy Volumes
 Shadow volume
+SharedCachedMap
 ShellBags
-Shimcache
+shimcache
+shimcachemem
 Shimcacheparser.py
 Shortcut (LNK) files
+SID – Parts
+SID – Well known
+SIFT Workstation
+SIFT Workstation – Extraction – Events
 Sigcheck
 sigcheck.exe
+Six-Step Incident Response Process
 Six-step IR Process
 Skype History
+Sleuth Kit
 sockets
-Sockets
+socketscan
 sockscan
 sorter
+sorter - Data types
+sorter - hash database
+Sparse file
 srch_strings
 ssdeep
-SSDT
+ssdt
+ssdt_ex
+Stable registry keys
+Standard Collector
 $Standard_Information
+$Standard_Information Header
+Standard Windows Time Rules
 Start->Run
 $STDINFO
 STIX
 Stop pulling the plug
 Stormworm
+strings
+String Searching
 StringSearching with memdump
 Stuxnet
 Super Timeline
+Super Timeline Analysis
+Super Timeline - Color Template
+Super Timeline - Creation
+Super Timeline - Fields/Columns
+Super Timeline - Import into Excel
 Supertimeline - Step-by-step creation
 Suspicious Binaries LFO
+Suspicious Services
 svcscan
+swapfile.sys
 Sysinternals
+SysKey
+System
+System Events
+System Files
 System process
 system restore
+System Service Descriptor Table (SSDT)
 Targeted Timeline collection
+TaskSchedular log
 Task Scheduler Logs
+Task Scheduler v1.0
+Task Scheduler v1.2
 TDL3/TDSS
+Team Composition
+TeamViewer
+Technet
+Temporal Proximity
 The Pivot Point
 The Sleuth Kit
+thrdproc
+Thread
 Threads
+Threat
+Threat Detection
 Threat Environment
+Threat Hunting
+Threat Hunting - From Automated to Manual
+Ticket Granting Tickets (TGT)
+Tickets
+Tickets – Golden Ticket
+Tickets – How to Steal
+Tickets – Mitigation
+Timeline
+Timeline Analysis
+Timeline Analysis - Core ares
+Timeline Analysis - Evidence
+Timeline Analysis - Tools
+Timeline Benefits
 Timeline Creation
+Timeline Creation - Step One
 Timeline Data Filtering
 Timeline evidence
-Timeliner
+timeliner
 Time Rule Exceptions
 Time Rules
+Time Rules - Exceptions
+Time Slice
 Timestamp Analysis
 Timestamp Anomalies
+Timestamps - NTFS
 timestomp
 Timezone
-Threat Hunting
-Threat Detection
+token
+Tokens
+Tokens – Common Tools
+Tokens – Mitigation
+Tokens – Stealing
+trampoline (inline) hooks
+Transaction Logging – System Crash
 Triage
+Triage Extraction
+TrueCrypt
 Trusted Code Signing
 TSK
+Ultimate Windows Security
 Unallocated
+Unallocated Clusters
 Understanding Security Identifiers
+Undo Pass
 $UPCASE
+Update Records
 USB or Drive usage
-UserAssist
+userassist
 $UsnJrnl
+vaddump
 VAD tree
+Virtual Address Descriptor (VAD)
 Virtual Machine Memory Acquisition
+Virtual Memory Offset
+VirusTotal.com
 Vista/Win7 Thumbnails
+VNC
 volafox
 Volatile Data Collection
 Volatile Data - Network
 Volatile Data - Processes
+Volatile registry keys
+Volatility
 Volatility help
 Volatility overview
 Volatility Plugins
 Volatility profiles
 Volatility reference
+Volatility – Supported Plugins
 $VOLUME
 Volume Boot Record
 $VOLUME_INFORMATION
-Volume Name
 $VOLUME_NAME
+Volume Name
 Volume Serial Number
+Volume Shadow Copy
+Volume Shadow Copy – Analysis Options
+Volume Shadow Copy – How it works
+Volume Shadow Copy – How to Mount
+Volume Shadow Copy – Location
+Volume Shadow Copy – When Created
+Volume Snapshot Service
 vshadowinfo
 vshadowmount
+Vshadowmount – Steps
 vssadmin.exe
+vssadmin list shadows
 VSS examination
 VSS Exclusions
 VSS forensics
@@ -465,24 +992,43 @@ VSS imaging
 VSS mounting
 VSS Timelining
 Vulnerability
+Vulnerability Exploitation
+Vulnerability Exploitation – Detection
+Vulnerability Exploitation – Types
+Wdigest
 Weaponization
 Web History
 What is memory forensics?
 What to grab?
+Whitelisting binaries
+Whitelisting – Live Memory Analysis
 Why memory?
+Win32/64dd
 Win7 Jump Lists
 Win7 Recycle Bin
 Win7 Search
 Windows Artifacts Dissected
+Windows Audit Collection Service
+Windows Credential Editor (WCE)
 Windows Disk Signature
+Windows Management Instrumentation
 Windows Memory Acquisition
+Windows Services – Malware Persistence
+Windows Side-by-side – DLL Loading
+Windows-TerminalServices-LocalSessionManager log
 Windows Time Rules
+WinPMEM
+winrs.exe
 wisp
+WMI
 WMIC
+WMI – Detection
+WMI Event Consumers
+WMI Event Consumers - Steps
+WMI Event Consumers - Triggers
 WMIEvtConsumer
-XP Recycle Bin
-XP restore points
-XP Search
+wsmprovhost.exe
 Yara
+YARA-Project
 Zeus
-Zone.identifier
+Zone Identifier
