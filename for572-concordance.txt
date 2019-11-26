@@ -1,4 +1,3 @@
-
 _utma cookie
 _utmb cookie
 _utmz cookie
@@ -35,6 +34,7 @@ analysis console
 analyst supporting tool
 analyzing ftp
 apache
+API; "application programming interface" in page or "api' in wordlist
 application log
 application reassembly
 APT; "advanced persistent threat" in page or "apt" in wordlst
@@ -53,15 +53,21 @@ awk
 awstats
 backdoor
 backdoor hidden in common protocol
+backspace attack
 bar chart
 barracuda
 base64
+mpls
+multiprotocol label switching
 base64 encoding
 basic authentication
 basic https process
 basic service set
 basic smtp transaction
 beats
+winlogbeat
+threat hunting
+metricbeat
 berkeley packet filter
 bettercap
 big endian
@@ -90,6 +96,7 @@ certificate field
 certificate pinning
 cewl
 chaosreader
+chunked transfer encoding
 CIDR
 cifs
 cisco
@@ -165,6 +172,7 @@ dns query logging
 dns record
 dns tunneling
 dnscapy
+dnssec
 dnsspoof
 domain name generation
 domaintools.com
@@ -175,10 +183,12 @@ dot 1q
 double flux fast-flux
 drop
 dshell
+logrhythm
 dsniff
 dumpcap
 dwell time
 e-mail message flow
+ebtables
 edns
 elasticsearch
 elsa
@@ -196,7 +206,9 @@ epsv
 esmtp id
 ess
 etag
+ETL; "event tracing log" in page or "ETL" in cswordlist
 ettercap
+ETW; "event tracing for Windows" in page or "ETW" in cswordlist
 evaluate proxy data
 event id
 event viewer
@@ -230,6 +242,7 @@ firewall families
 firewall log
 firewall rule
 firewall syntax
+firewalld
 flow analysis
 flow key
 flowgrep
@@ -266,11 +279,13 @@ guard intelligence
 hadoop
 hostname
 how do we acquire
+hpack
 http
 http log
 http log format
 http referer uri
 http request method
+http request string
 http response code
 http return code
 http server log
@@ -281,6 +296,7 @@ https differences from http
 hubspot
 ibss
 icmp redirect
+identd
 identify choke and critical point
 ids
 ids families
@@ -299,6 +315,7 @@ internet protocol flow information export
 intrusion detection system
 intrustion detection system (ids)
 investigation opsec and footprint consideration
+IOC; "indicator of compromise" in page or "indicators of compromise" in page or "ioc" in wordlist
 iodine
 ip flow
 ipfix
@@ -324,12 +341,16 @@ link diagram
 little snitch
 live research
 live research complications
+TTL; "time to live" in page or "TTL" in cswordlist
 locking a file for access
 locking andx
 log aggregation solutions
 log aggregation to go
 log data collection, aggregation and analysis
 log evidence collection scenario
+log lizard
+log parser
+apache lucene
 log rule
 log source
 log-prefix
@@ -376,6 +397,7 @@ mitigations
 mitm for network defense
 mitm theme
 mixed protocol analysis
+mod_log_forensic
 modes (wireless)
 moloch
 monitor mode
@@ -417,11 +439,14 @@ nfdump statistics
 nfpcapd
 nfreplay
 nfsight
+nftables
 nginx
 ngrep
 niksun
 notebook
 ns
+NSM; "network and security manager" in page or "network security monitor" in page or "NSM" in cswordlist
+nss keylogging
 nt create andx
 ntlm
 ntop
@@ -454,6 +479,7 @@ outlook
 output table
 ozymandns
 packet
+filebeat
 pairwise master key
 parallel axis
 parallel coordinate
@@ -476,6 +502,9 @@ perfect forward secrecy
 pf
 pfs
 pineapple
+appflow
+rfc3954
+rfc7011
 plain
 plain text
 platform identification
@@ -497,6 +526,8 @@ processing software
 project management
 promiscuous mode; '"promiscuous" mode' in page or promiscuous in wordlist
 protocol approach
+network watcher
+vpc-flow
 protocol attribute
 protocol flow
 protocol functionality
@@ -512,7 +543,9 @@ psk
 pth attack indicator
 ptr
 public key encryption
+qos
 qradar
+RAT; "remote administration tool" in page or "RAT" in cswordlist
 raw table
 read andx
 reading from a file
@@ -541,6 +574,8 @@ rfc5101
 rfc5102
 rfc5103
 rfc5470
+rfc7540
+rfc7541
 rfmon
 riverbed steelcentral packet analyzer
 riverbed steelcentral packet analyzer personal edition
@@ -568,7 +603,9 @@ scapy
 scoping
 scribe
 sctp
+stream control transmission protocol
 search string
+plixer scrutinizer
 security (list)
 security analytics platform
 security information event manager
@@ -647,6 +684,9 @@ ssl handshake
 ssl inspection
 ssl-bump
 ssl/tls
+sstp
+secure sockets tunneling protocol
+tls
 ssldump
 staged approach to wifi hacking
 standby collection hardware
@@ -668,6 +708,9 @@ syslog network transaction
 syslog server
 syslog source
 syslog-ng
+syslog event parameters
+PRI; "priority value" in page or "PRI" in cswordlist
+rfc5424
 system for internet level knowledge
 system forensics
 system log
@@ -694,6 +737,7 @@ tkip mic attack
 tkip michael check
 topn statistic
 traffic manipulation
+traffic shaping
 trans2
 transfer-encoding
 transmission control protocol
@@ -721,6 +765,7 @@ udp first response wins
 uniform ressource identifier
 unlocking a file
 upnp
+urchin tracking module
 uri
 useful field
 user agent
@@ -742,6 +787,7 @@ w3c extended
 w3c extended/combined format
 wds
 weak keys and exchange
+webdav
 wep attack
 wepattack
 what to capture
@@ -749,10 +795,13 @@ which tool to choose
 wifi attack
 wildcard
 windows 8
+whois
 windows architecture
 windows eventing model
 windows evtx
 windows os bidging
+EVT; "evt format" in page or "EVT" in cswordlist
+windows event forwarding
 winlogd
 winpcap
 wireless
@@ -771,5 +820,11 @@ xplico
 yahoo! mail
 yersinia
 zcat
+Zeek NSM; "zeek nsm" in page or "zeek" in wordlist
 zeroconf
 zone alarm
+zone transfer
+bro-cut
+rabbitmq
+zeromq
+apache kafka
