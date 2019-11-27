@@ -208,7 +208,7 @@ envelope
 eprt
 epsv
 esmtp id
-ess
+ESS; "ESS" in cswordlist or "extended service set" in page
 etag
 ETL; "event tracing log" in page or "ETL" in cswordlist
 ettercap
@@ -338,6 +338,8 @@ keep-alive
 kerberos
 kibana
 kismet
+UniFi; "UniFi" in cswordlist
+ubiquiti
 lanman
 layer 7 source
 legal compliance
@@ -593,6 +595,9 @@ rfc7011
 rfc7540
 rfc7541
 rfc765
+rfc821
+rfc2554
+rfc4954
 rfmon
 riverbed steelcentral packet analyzer
 riverbed steelcentral packet analyzer personal edition
@@ -600,10 +605,13 @@ robust security network
 routing
 rsa key exchange
 rsa netwitness
+WISE; "WISE" in cswordlist or "with intelligence see everything" in page
 rsa security analytics
 rsn
 rsyslog
 rsyslog configuration file
+csma/ca
+csma/cd
 rts/cts attacks
 rumint
 rwfileinfo
@@ -663,6 +671,9 @@ smb.file
 smb2 command
 smb2.boot_time
 smb3
+pop3
+mapi
+imap
 smtp
 smtp body
 smtp header
@@ -675,6 +686,7 @@ snort basics
 snort logging
 snort rule
 sntp
+unicode
 social engineering toolkit
 social engineering toolkit (set)
 sof-elk
@@ -732,6 +744,7 @@ system forensics
 system log
 tap
 tcp
+TOE; "tcp/ip offload engine" in page or "TOE" in cswordlist
 tcp payload reassembly
 tcpdstat
 tcpdump
