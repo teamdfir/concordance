@@ -12,8 +12,8 @@
 802.2x
 AES-CCM
 AES-CMAC
-API; "application programming interface" in page or "api' in wordlist
-APT; "advanced persistent threat" in page or "apt" in wordlst
+API; "application programming interface" in page or "api" in wordlist
+APT; "advanced persistent threat" in page or "apt" in wordlist
 Bro NSM;"bro nsm" in page or "bro" in cswordlist
 CBC-MAC
 CIDR
@@ -559,7 +559,7 @@ prerouting table
 process
 processing software
 project management
-promiscuous mode; '"promiscuous" mode' in page or promiscuous in wordlist
+promiscuous mode; '"promiscuous" mode' in page or "promiscuous" in wordlist
 protocol approach
 protocol attribute
 protocol flow
