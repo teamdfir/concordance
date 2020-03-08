@@ -148,7 +148,7 @@ comprehensive log aggregation
 compression
 compromised environment
 compromised web pages / sites
-connect
+connect in wordlist
 control frame
 control information
 cookie
